@@ -23,9 +23,10 @@ You will:
 <div style="flex-basis: 175px; flex-grow: 1">  
 A way to feel happier is to remember what is important to you. You could make a list of things that make you happy then create a mood board to display them together.
 </div>
+
 **Happiness**: [See inside](https://trinket.io/library/trinkets/42802541b7){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/42802541b7?outputOnly=true" width="400" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/42802541b7?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 </div>
 
@@ -41,12 +42,12 @@ Explore these example projects to get more ideas:
 
 **Beetle**: [See inside](https://trinket.io/library/trinkets/73702c6b80){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/73702c6b80?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/73702c6b80?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 **Doodles**: [See inside](https://trinket.io/library/trinkets/8dd1f6474e){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/8dd1f6474e?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/8dd1f6474e?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---
