@@ -9,7 +9,6 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 </div>
 </div>
 
-
 --- task ---
 
 Your mood board will have several sections of content using a combination of text, images or emoji. 
@@ -75,13 +74,13 @@ You can swap the order of the `<img>` and `<div>` elements if you want the text 
 --- /collapse ---
 
 
-[Add a wrapping section with regular width items]
+[Add a wrapping section with regular width elements]
 
 
 --- collapse ---
 
 ---
-title: Add a wrapping section with regular width items
+title: Add a wrapping section with regular width elements
 ---
 
 --- code ---
@@ -133,7 +132,6 @@ line_numbers: false
 
 [Add a full width section with a quote]
 
-
 --- collapse ---
 
 ---
@@ -155,6 +153,18 @@ line_numbers: false
 </section>
 
 --- /code ---
+
+--- /collapse ---
+
+[]
+
+--- collapse ---
+
+---
+title: 
+---
+
+
 
 --- /collapse ---
 
