@@ -1,66 +1,54 @@
 ## Introduction
 
-In this project, <mark> short project description </mark>
-
-<mark>Boxout (wherever wanted/needed) </mark>
+In this project, create a mood board web page for a real or imaginary project. It could be a redesign of your bedroom, a fashion item, a party, a website, or as a reminder of all the things that make you happy.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Term**</span> description of term or interesting phrase.
+A <span style="color: #0faeb0">**mood board**</span> is a collage that arranges images, fonts, colours, and other design elements to create a look or style for a project. Mood boards can be used for creating brand designs, product designs, and pretty much any other type of design project.
 </p>
 
-<mark>Objectives in language that learners will understand</mark>
-
 You will:
-+ h
-+ 
-+
++ Have multiple sections with different layouts.
++ Use different colours and fonts that work well together.
++ Use images, emoji or both. 
+
 
 <mark>Image of many different examples in a strip</mark>
 
 --- no-print ---
 
---- task ---
+--- task --- 
 
+### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-
-### Try it 
-
-Description of what to do or think about when looking at the example.
-
+A way to feel happier is to remember what is important to you. You could make a list of things that make you happy then create a mood board to display them together.
 </div>
+**Happiness**: [See inside](){:target="_blank"}
 <div>
-**Gobo watching**: [See inside](https://scratch.mit.edu/projects/495141114/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495141114/?autostart=false" frameborder="0"></iframe>
+<iframe src="https://trinket.io/embed/html/42802541b7?outputOnly=true" width="400" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
-
 </div>
 
 --- /task ---
 
 ### Get inspiration 
 
-You are going to make some design decisions to ...
+You are going to make some design decisions to create your mood board.
 
 --- task ---
 
 Explore these example projects to get more ideas:
 
-**Don't eat donut**: [See inside](https://scratch.mit.edu/projects/495865093/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865093/?autostart=false" frameborder="0"></iframe>
+**Beetle**: [See inside](){:target="_blank"}
+<div>
+<iframe src="https://trinket.io/embed/html/092b44465f?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
-**Under the sea**: [See inside](https://scratch.mit.edu/projects/495866460/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495866460/?autostart=false" frameborder="0"></iframe>
+**Doodles**: [See inside](){:target="_blank"}
+<div>
+<iframe src="https://trinket.io/embed/html/092b44465f?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
-**Sporg**: [See inside](https://scratch.mit.edu/projects/495865892/editor){:target="_blank"}
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/495865892/?autostart=false" frameborder="0"></iframe>
-</div>
 --- /task ---
 --- /no-print ---
 
@@ -68,9 +56,17 @@ Explore these example projects to get more ideas:
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your character. See inside example projects in [Scratch 1: Googly eye character - Examples](https://scratch.mit.edu/studios/29029028/){:target="_blank"} Scratch studio.
+**Happiness**
 
-<mark>one image file per example</mark>
+![](images/image.PNG)
+
+**Beetle**
+
+![](images/image.PNG)
+
+**Doodles**
+
+![](images/image.PNG)
 
 --- /print-only ---
 
