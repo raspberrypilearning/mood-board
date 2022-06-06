@@ -46,7 +46,7 @@ Open the [mood board starter project](https://trinket.io/library/trinkets/bb2ee1
 
 **Choose:** Set the colour palette for your mood board. You will need 5 colours `primary`, `secondary`, `tertiary`, `detail` and `detail2`.
 
-You could:
+You could use one of the 20 included colour palettes or create your own:
 
 [[[hex-colour-palettes]]]
 
@@ -126,7 +126,7 @@ line_highlights: 35
        
     </main>
 
---- /collapse ---
+--- /code ---
 
 Right click on the image on your webpage and select `Copy image address`:
 
@@ -181,30 +181,86 @@ line_highlights: 5-14
 
 --- /code ---
 
---- /task ---
-
---- task ---
-
-[choose an image]
-[get colours from an image]
-
---- /task ---
-
---- task ---
-
-**Tip:** To make your mood board useable to people with disabilities and appealing to a wide audience you need to make sure it is accessible: 
-
-[accessibility]
+--- /collapse ---
 
 --- collapse ---
 
 ---
-title: 
+title: Add more colour to your palette
 ---
 
+You can create additional variables in `default.css` to store more colours.
 
+**Tip:** You might want to add a new background colour and text colour to use with it.
+
+--- code ---
+---
+language: html
+filename: default.css
+line_numbers: true
+line_number_start: 4
+line_highlights: 15-16
+---
+
+:root {
+  --primary: #08586B;
+  --onprimary:#4f4e4e;
+  --secondary: #E0DB54;
+  --onsecondary:#ffffff;
+  --tertiary:#AF5C08;
+  --ontertiary: #ffffff;
+  --page:#ffffff;
+  --onpage:#000000;
+  --detail: #AB7C1C;
+  --detail2: #38640D;
+  --highlight: #DC9110;
+  --onhighlight: #443C35;
+}
+
+--- /code ---
+
+You can create a class in `style.css` that uses your new colours: 
+
+--- code ---
+---
+language: html
+filename: style.css
+line_numbers: true
+line_number_start: 8
+line_highlights: 18-21
+---
+
+.secondary {
+  background: var(--secondary);
+  color: var(--onsecondary);
+}
+
+.tertiary {
+  background: var(--tertiary);
+  color: var(--ontertiary);
+}
+
+.highlight {
+  background: var(--highlight);
+  color: var(--onhighlight);
+}
+
+--- /code ---
 
 --- /collapse ---
+
+Your new class can then be used in your `index.html` file at any time so that an element can use your new colour pairing. 
+
+--- code ---
+---
+language: html
+filename: index.html
+line_numbers: false
+---
+
+<section class="highlight">
+
+--- /code ---
 
 --- /task ---
 
@@ -230,4 +286,63 @@ title:
 
 --- /task ---
 
+--- task ---
 
+Now that you have decided the theme for your mood board web page, and create your colours and fonts, it is a good idea to save your project. 
+
+[saving in Trinket]
+
+You can also publish your mood board to see what it would look like as a full web page. Each time you save your project your published site will update: 
+
+[publish your moodboard]
+
+--- collapse ---
+
+---
+title: Publish your mood board
+---
+
+Click on the `Click To Publish` button:
+
+![The browse image button.](images/click-publish-button.png)
+
+You can update the `Site name` to customise your link then click on `Publish`:
+
+![The publish your trinket popup window with site name and site url.](images/publish-your-trinket.png)
+
+The URL will take you to the published version of your mood board. This is how your audience will see it when you share the link with them:
+
+![The published mood board showing as a full screen webpage.](images/published-webpage.png)
+
+
+--- /collapse ---
+
+**Tip:** To make your mood board viewable by people with disabilities and appealing to a wide audience you need to make sure it is accessible: 
+
+[accessibile]
+
+--- collapse ---
+
+---
+title: Check your website accessiblity
+---
+
+Accessibility tools check that your website can be viewed by people with disabilities. 
+
+Click on the `Published` button:
+
+![The published button.](images/published-button.png)
+
+Right-click on the `Site URL` link and choose `Copy Link Address`:
+
+![The Publish your trinket popup window with a right click menu over the site URL link.](images/copy-published-address.png)
+
+Go to the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/){:target="_blank"} website and paste in your published site URL:
+
+![The Wave website with .](images/wave-website.png)
+
+
+
+--- /collapse ---
+
+--- /task ---
