@@ -1,4 +1,4 @@
-## Step title
+## Add style
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
@@ -11,7 +11,15 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 --- task ---
 
-Another step of tasks to complete.
+--- collapse ---
+
+---
+title: Large centered text
+---
+
+
+
+--- /collapse ---
 
 --- /task ---
 
