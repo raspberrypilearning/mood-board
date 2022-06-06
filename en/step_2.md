@@ -15,7 +15,7 @@ What is the topic of your mood board?
 
 + Party: for a specific occasion or theme
 + Artwork: Book cover, poster, flyer, comic book
-+ Logo or product design: 
++ Logo or product design 
 + Decorate a space: Classroom, makerspace, cafe
 + Fashion design: glasses frames, sari, bag
 + Inspired by nature: Terrarium, outside space
@@ -186,7 +186,7 @@ line_highlights: 5-14
 --- collapse ---
 
 ---
-title: Add more colour to your palette
+title: Add more colours to your palette
 ---
 
 You can create additional variables in `default.css` to store more colours.
@@ -290,9 +290,11 @@ line_numbers: false
 
 Now that you have decided the theme for your mood board web page, and create your colours and fonts, it is a good idea to save your project. 
 
-[saving in Trinket]
+If you have a Trinket account, you can click on the **Remix** button to save a copy to your **My Trinkets** library.
 
-You can also publish your mood board to see what it would look like as a full web page. Each time you save your project your published site will update: 
+If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
+
+You can also publish your saved mood board to see what it would look like as a full web page. Each time you save your project your published site will update: 
 
 [publish your moodboard]
 
@@ -337,11 +339,19 @@ Right-click on the `Site URL` link and choose `Copy Link Address`:
 
 ![The Publish your trinket popup window with a right click menu over the site URL link.](images/copy-published-address.png)
 
-Go to the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/){:target="_blank"} website and paste in your published site URL:
+Go to the [WAVE Web Accessibility Evaluation Tool](https://wave.webaim.org/){:target="_blank"} website and paste in your published site URL then click on the arrow:
 
-![The Wave website with .](images/wave-website.png)
+![The Wave website with published url pasted into the text box and arrow to the right.](images/wave-website.png)
 
+The aim is to have zero contrast errors:
 
+![The summary report highlighting zero contrast errors.](images/report-errors.png)
+
+If contrast errors are reported, click on the Contrast tab and use the sliders to change the foreground or background colours until they pass the test: 
+
+![The Wave website with published url pasted into the text box and arrow to the right.](images/contrast-sliders.png)
+
+Copy the new hex codes and replace them in the colour variables of your mood board web page. 
 
 --- /collapse ---
 
