@@ -44,9 +44,9 @@ Explore these example projects to get more ideas:
 <iframe src="https://trinket.io/embed/html/092b44465f?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
-**Doodles**: [See inside](){:target="_blank"}
+**Doodles**: [See inside](https://trinket.io/library/trinkets/8dd1f6474e){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/092b44465f?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/8dd1f6474e?outputOnly=true" width="500" height="400" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /task ---
@@ -58,7 +58,7 @@ Explore these example projects to get more ideas:
 
 **Happiness**
 
-![](images/image.PNG)
+![](images/happiness.png)
 
 **Beetle**
 
@@ -66,7 +66,7 @@ Explore these example projects to get more ideas:
 
 **Doodles**
 
-![](images/image.PNG)
+![](images/doodle.PNG)
 
 --- /print-only ---
 
