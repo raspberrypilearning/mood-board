@@ -5,7 +5,7 @@
 In this step you will design the overall layout of your mood board and add content sections with placeholder content. 
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![](images/image.png){:width="300px"}
 </div>
 </div>
 
