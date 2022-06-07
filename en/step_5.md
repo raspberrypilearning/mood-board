@@ -26,21 +26,9 @@ You can change the size, position and font weight and style of text on your mood
 --- collapse ---
 
 ---
-title: Large text
+title: Large text tiles
 --- 
 
-You can use header tags `<h1>` and `<h2>` to create large text headings. 
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<div><h1>BEETLE</h1></div>
-
---- /code ---
 
 --- /collapse ---
 
