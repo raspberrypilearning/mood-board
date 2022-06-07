@@ -5,7 +5,7 @@
 In this step you will choose a topic for your mood board and choose a matching colour palette and fonts. You will check that your colour palette has good contrast so that it is accessible. 
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+Image, gif or video showing what they will achieve by the end of the step. ![A screenshot of the output of step two. A summer party web page.](images/step-two.PNG){:width="300px"}
 </div>
 </div>
 
@@ -13,14 +13,14 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 
 What is the topic of your mood board? 
 
-+ Party: for a specific occasion or theme
-+ Artwork: Book cover, poster, flyer, comic book
-+ Logo or product design 
-+ Decorate a space: Classroom, makerspace, cafe
-+ Fashion design: glasses frames, sari, bag
-+ Inspired by nature: Terrarium, outside space
-+ Inspired by animals: Fish tank, tropical rainforest 
-+ Character design or world building
++ **Party**: for a specific occasion or theme
++ **Artwork**: Book cover, poster, flyer, comic book
++ **Logo** or **product** design 
++ **Decorate a space**: Classroom, makerspace, cafe
++ **Fashion design**: glasses frames, sari, bag
++ **Inspired by nature**: Terrarium, outside space
++ **Inspired by animals**: Fish tank, tropical rainforest 
++ **Character** design or world **building**
 
 Remember, you don't need to create a complete web page, you are just going to make a page that is visually appealing and sets a mood.
 
@@ -48,6 +48,14 @@ Change the `<h1>` heading of your mood board to match your topic. You can use th
 <span style="color: #0faeb0">**Graphic designers, interior designers, industrial designers, photographers, user interface designers and other creative artists**</span> use mood boards to visually illustrate the style they wish to pursue. Amateur and professional designers alike may use them as an aid for more subjective purposes such as how they want to decorate their bedroom, or the vibe they want to convey through their fashion.
 </p>
 
+The 'style.css' file in the starter project includes a colour palette with:
++ constrasting `page` and `onpage` colours which are used for the background of your page,
++ `primary`, `secondary` and `tertiary` colours with matching `onprimary`, `onsecondary` and `ontertiary` colours - these can be used whenever you want different coloured `<section>` or `<div>` elements,
++ `detail1` and `detail2` colours which can be used to add coloured highlights.  
+
+The `page` colour scheme is used outside of the `<main>` content. 
+The `primary` colour scheme is used for content inside `<main>` unless you use a different class. 
+
 --- task ---
 
 **Choose:** Set the colour palette for your mood board. You will need 5 colours `primary`, `secondary`, `tertiary`, `detail` and `detail2`.
@@ -73,9 +81,13 @@ You might want to create additional colour variables to use in your project:
 
 --- task ---
 
-**Choose:** Your colour palette needs some contrasting colours to pair with `primary`, `secondary` and `tertiary`. Constrasting colours make the text readable for your user. You can generate suitable contrasting colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
+**Choose:** Your colour palette needs some contrasting colours to pair with `primary`, `secondary` and `tertiary`. Constrasting colours make the text readable for your user. You can check and adjust your colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
 
 [[[contrast-checker]]]
+
+**Tip:** If you are finding it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
+
+**Tip:** that if you have used one of our themes then you will already have suitable contrasting colours. 
 
 --- /task ---
 
@@ -93,12 +105,7 @@ You might want to create additional colour variables to use in your project:
 
 [[[included-fonts]]]
 [[[web-fonts]]]
-
-[Choosing CSS fonts]
-[Fonts from your palette file]
-
 [[[google-fonts]]]
-[Add Google fonts]
 
 --- /task ---
 
