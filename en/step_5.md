@@ -5,7 +5,7 @@
 In this step you can add style to your mood board including font sizes and styles, centering, borders, gradients, transparency or rounded corners. You don't need to add everything! Just add the features that you need to create the effect you want. 
 </div>
 <div>
-Image, gif or video showing what they will achieve by the end of the step. ![](images/image.png){:width="300px"}
+![](images/image.png){:width="300px"}
 </div>
 </div>
 
