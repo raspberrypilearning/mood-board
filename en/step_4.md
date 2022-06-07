@@ -14,32 +14,15 @@ Image, gif or video showing what they will achieve by the end of the step. ![](i
 Add any **text** that you want to appear on your mood board. 
 
 **Choose:** Your text could be any combination of:
-+ short words or phrases that fit with your topic,
-+ nonsense 'lorem ipsum' placeholder text to give the idea of what text would look like, or
-+ an inspirational quote. 
++ short words or phrases that fit with your topic
++ nonsense 'lorem ipsum' placeholder text to give the idea of what text would look like
++ an inspirational quote
 
 Don't spend too much time on the detail of the text. A mood board just sets the mood for a project. 
 
---- collapse ---
+[[[add-placeholder-text]]]
 
----
-title: Add placeholder text
----
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Atque, officia libero! Quam perspiciatis necessitatibus repellat vel doloremque possimus ullam molestiae modi. Exercitationem nostrum, quibusdam enim velit iusto unde delectus molestiae?</p>
-
---- /code ---
-
-It is traditional to use nonsense Latin text as a placeholder on a web page so that you can see what a layout looks like.
-
---- /collapse ---
-
+[[[full-width-quote]]]
 
 --- /task ---
 
@@ -49,51 +32,58 @@ It is traditional to use nonsense Latin text as a placeholder on a web page so t
 
 The starter project includes lots of images that you could use on your mood board. 
 
---- collapse ---
+[[[trinket-image-library]]]
 
----
-title: Add an image
----
-
-Replace 'placeholder.png' in an `<img>` tag with the name of your chosen image and change the `alt` description to match. 
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<img src="placeholder.png" alt="Description of the image.">
-
---- /code ---
-
---- /collapse ---
-
-Anywhere you have an `<img>` element you could replace it with a huge emoji:
-
---- collapse ---
-
----
-title: Add a huge emoji
----
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<p class="narrow, hugefont">
-    🍂
-</p>
-
---- /code ---
-
---- /collapse ---
+[[[huge-emoji]]]
 
 **Tip:** It's fine to use the same image or emoji multiple times on your page to quickly fill your page. 
+
+--- /task ---
+
+--- task ---
+
+**Debug:**
+
+--- collapse ---
+---
+title: My content has different heights and it looks odd
+---
+
+When you add content that has different heights, the boxes around them will be different heights. 
+
+![A screenshot of a webpage where the content are different heights.](images/different-heights.png)
+
+You can change this by adding in the `tile` class:
+
+--- code ---
+---
+language: HTML
+filename: index.html
+line_numbers: false
+ 
+---
+<div class="tile">
+--- /code ---
+
+`tile` sets a specific height for each of the elements that have this class. You can adjust the height by changing it in the `style.css` file.
+
+--- code ---
+---
+language: CSS
+filename: style.css
+line_numbers: false
+ 
+---
+.tile {
+  height: 9.4rem;
+}
+--- /code ---
+
+Adding the `tile` class will make every element with that class the same height:
+
+![A screenshot of a webpage where the content are the same height.](images/same-height.png)
+
+--- /collapse ---
 
 --- /task ---
 

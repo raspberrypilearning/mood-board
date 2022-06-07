@@ -1,19 +1,21 @@
 ## What next?
 
-If you are following the [PathName](https://projects.raspberrypi.org/en/raspberrypi/path-name) path, you can move on to the [ProjectName](https://projects.raspberrypi.org/en/projects/project-name) project. In this project, you will make a (add description here).
+If you are following the [Intro to Web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) path, you should move on to the [Sell it to me](https://projects.raspberrypi.org/en/projects/sell-it-to-me) project. In this project, you will make a web page to promote a product or idea.
 
 --- print-only ---
 
-![ProjectName project](images/projectname-project.png)
+![Sell it to me project](images/sell-it-to-me-project.png)
 
 --- /print-only ---
 
+<mark>Update with examples when ready</mark>
+
 --- no-print ---
 
-<div class="scratch-preview" style="margin-left: 15px;">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/486719199/?autostart=false" frameborder="0"></iframe>
+<div>
+**Happiness**: [See inside](https://trinket.io/html/42802541b7){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/html/42802541b7?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /no-print ---
-
-If you want to have more fun exploring Scratch, then you could try out any of [these projects](https://projects.raspberrypi.org/en/projects?software%5B%5D=scratch&curriculum%5B%5D=%201).

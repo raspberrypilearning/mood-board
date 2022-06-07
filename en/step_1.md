@@ -11,7 +11,6 @@ You will:
 + Use different colours and fonts that work well together.
 + Use images, emoji or both. 
 
-
 ![A line of images from example projects with different colours, fonts and layouts.](images/example-strip.png)
 
 --- no-print ---
@@ -24,7 +23,7 @@ You will:
 A way to feel happier is to remember what is important to you. You could make a list of things that make you happy then create a mood board to display them together.
 </div>
 <div>
-**Happiness**: [See inside](https://trinket.io/library/trinkets/42802541b7){:target="_blank"}
+**Happiness**: [See inside](https://trinket.io/html/42802541b7){:target="_blank"}
 
 <iframe src="https://trinket.io/embed/html/42802541b7?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
@@ -40,12 +39,12 @@ You are going to make some design decisions to create your mood board.
 
 Explore these example projects to get more ideas:
 
-**Beetle**: [See inside](https://trinket.io/library/trinkets/73702c6b80){:target="_blank"}
+**Beetle**: [See inside](https://trinket.io/html/73702c6b80){:target="_blank"}
 <div>
 <iframe src="https://trinket.io/embed/html/73702c6b80?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
-**Doodles**: [See inside](https://trinket.io/library/trinkets/8dd1f6474e){:target="_blank"}
+**Doodles**: [See inside](https://trinket.io/html/8dd1f6474e){:target="_blank"}
 <div>
 <iframe src="https://trinket.io/embed/html/8dd1f6474e?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
