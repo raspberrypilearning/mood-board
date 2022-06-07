@@ -23,39 +23,7 @@ Use the `primary`, `secondary` and `tertiary` classes to control the colours of 
 
 You can change the size, position and font weight and style of text on your mood board:
 
---- collapse ---
-
----
-title: Large text tiles
---- 
-
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Start a new line
----
-
-Sometimes you want text to start on a new line. You can use the `<br>` tag to do this. 
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<div class="tertiary">
-    <h2>BEETLE<br>BEETLE<br>BEETLE</h2>
-</div>
-
---- /code ---
-
-Each 'BEETLE' will appear on a new line even if there is room on the previous line. 
-
---- /collapse ---
+[[[web-large-text-tiles]]]
 
 --- collapse ---
 

@@ -27,6 +27,8 @@ Add at least three sections to `<main></main>` in your mood board. You can add m
 
 [[[wrapped-regular-width]]]
 
+[[[three-text-tiles]]]
+
 [[[wrapped-wide-narrow]]]
 
 [[[full-width-quote]]]

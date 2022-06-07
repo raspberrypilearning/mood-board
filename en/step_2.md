@@ -58,17 +58,20 @@ The `primary` colour scheme is used for content inside `<main>` unless you use a
 
 --- task ---
 
-![Examples of colour palettes in strips.](images/palette-examples.png)
-
 **Choose:** Set the colour palette for your mood board. You will need 5 main colours **primary**, **secondary**, **tertiary**, **detail** and **detail2**.
 
 You could use one of the 20 included colour palettes or create your own:
+
+![Examples of colour palettes in strips.](images/palette-examples.png)
+
 
 [[[hex-colour-palettes]]]
 
 [[[web-colour-palette]]]
 
 Or, you could choose an image and then select a colour palette to match:
+
+![Examples of colour palettes from images.](images/image-palette.png)
 
 [[[trinket-image-library]]]
 [[[colours-from-image]]]
