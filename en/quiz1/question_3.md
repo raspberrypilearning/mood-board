@@ -9,7 +9,7 @@ The `rounded` class sets the `border-radius` of an element. Which HTML elements 
 
 --- choices ---
 
-- ( ) <section> element
+- ( ) `<section>` element
 
   --- feedback ---
 
@@ -17,7 +17,7 @@ The `rounded` class sets the `border-radius` of an element. Which HTML elements 
 
   --- /feedback ---
 
-- ( ) <div> elements
+- ( ) `<div>` elements
 
   --- feedback ---
 
@@ -25,7 +25,7 @@ The `rounded` class sets the `border-radius` of an element. Which HTML elements 
 
   --- /feedback ---
 
-- ( ) <img> elements
+- ( ) `<img>` elements
 
   --- feedback ---
 

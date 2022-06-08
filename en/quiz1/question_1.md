@@ -14,6 +14,21 @@ Have fun!
 legend: Question 1 of 3
 ---
 
+Which is the output of this piece of code?
+
+--- code ---
+---
+language: html
+filename: index.html
+---
+<section class="wrap">
+    <div class="wide">
+        <p>Wide paragraph of text</p>
+    </div>
+    <img class="narrow" src="placeholder.png" alt="Description of the image.">
+</section>
+
+--- /code ---
 
 --- choices ---
 
@@ -33,7 +48,7 @@ legend: Question 1 of 3
 
   --- /feedback ---
 
-- (x) 
+- () 
 
 ![.](images/regular-image.png)
 
@@ -41,7 +56,7 @@ legend: Question 1 of 3
 
   --- /feedback ---
 
-- ( ) 
+- (x) 
 
 ![.](images/wide-image.png)
 
