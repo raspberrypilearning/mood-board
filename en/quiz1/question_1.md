@@ -15,6 +15,7 @@ legend: Question 1 of 3
 ---
 
 Which is the output of this piece of code?
+
 --- code ---
 ---
 language: html
