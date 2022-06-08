@@ -48,7 +48,7 @@ Change the `<h1>` heading of your mood board to match your topic. You can use th
 <span style="color: #0faeb0">**Graphic designers, interior designers, industrial designers, photographers, user interface designers and other creative artists**</span> use mood boards to visually illustrate the style they wish to pursue. Amateur and professional designers alike may use them as an aid for more subjective purposes such as how they want to decorate their bedroom, or the vibe they want to convey through their fashion.
 </p>
 
-Your mood board will us a colour palette so that it looks appealing with colours that work well together.  
+Your mood board will use a colour palette so that it looks appealing with colours that work well together.  
 
 [[[web-colour-palette-variables]]]
 
@@ -82,15 +82,13 @@ Or, you could choose an image and then select a colour palette to match:
 
 --- task ---
 
-**Choose:** Your colour palette needs some contrasting colours to pair with `primary`, `secondary` and `tertiary`. Constrasting colours make the text readable for your user. You can check and adjust your colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
+**Choose:** If you haven't used one of our colour palettes then yours will need some contrasting colours to pair with `primary`, `secondary` and `tertiary`. Constrasting colours make the text readable for your user. You can check and adjust your colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
 
 ![Examples of a secondary palette with bad contrast and one with good contrast.](images/contrast-examples.png)
 
 [[[contrast-checker]]]
 
 **Tip:** If you are finding it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
-
-**Tip:** If you have used one of our themes then you will already have suitable contrasting colours. 
 
 --- /task ---
 
