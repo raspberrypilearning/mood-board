@@ -34,7 +34,7 @@ filename: index.html
 
 - ( )
 
-![.](images/image-wide.png){:width="400px"}
+![.](images/image-wide.png){:style="min-width: 400px"}
 
   --- feedback ---
 
