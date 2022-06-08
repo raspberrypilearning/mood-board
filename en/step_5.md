@@ -37,7 +37,7 @@ You can add rounded corners, borders, gradients or transparency to style your `<
 
 [[[rounded-corners]]]
 
-[[[web-borders]]]
+[web-borders]
 
 --- collapse ---
 
@@ -84,8 +84,6 @@ line_numbers: false
 --- /code ---
 
 **Tip:** To change the colours and direction of the gradient, adjust the `background-image` values for the `gradient1` and `gradient2` class in 'style.css'.
-
---- /collapse ---
 
 --- /collapse ---
 
