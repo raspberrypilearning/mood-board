@@ -5,7 +5,7 @@
 legend: Question 2 of 3
 ---
 
-Which of these is an example of a high contrast text and background colour that is easy to read?
+You have been given some options for background and text colours to use in a project. Which one should you choose to ensure that the colours have a high contrast?
 
 --- choices ---
 
