@@ -37,80 +37,17 @@ You can add rounded corners, borders, gradients or transparency to style your `<
 
 [[[rounded-corners]]]
 
-[web-borders]
+[[[web-borders]]]
 
---- collapse ---
+[[[add-a-gradient]]]
 
----
-title: Add a border
----
+--- /task ---
 
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
+--- task ---
 
-<div class="bordered-box">
-    <p>Add text here</p>
-</div>
+You might want to create additional colour variables to use in your project:
 
---- /code ---
-
-**Tip:** You can adjust the `border` values for the `bordered-box` class in 'style.css'
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Add a gradient
----
-
-The `gradient1` and `gradient2` styles provide different gradient effects. 
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<div class="gradient1">
-    <p>Add text here</p>
-</div>
-
---- /code ---
-
-**Tip:** To change the colours and direction of the gradient, adjust the `background-image` values for the `gradient1` and `gradient2` class in 'style.css'.
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Add transparency
----
-
-Use the `transparent` class to make an element partially transparent so you can see the content behind it.
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<div class="transparent">
-    <p>Add text here</p>
-</div>
-
---- /code ---
-
-**Tip:** Adjust the `opacity` value for the `transparent` class in 'style.css'. 0 is completely transparent and 1 is not at all transparent. 
-
---- /collapse ---
+[[[add-colour-variables]]]
 
 --- /task ---
 

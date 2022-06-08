@@ -18,7 +18,7 @@ What is the topic of your mood board?
 + 🥤 **Logo** or **product** design 
 + 🛏️ **Decorate a space**: Classroom, makerspace, cafe
 + 🥻 **Fashion design**: glasses frames, sari, bag
-+ 🪴 **Inspired by nature**: Terrarium, outside space
++ 🌳 **Inspired by nature**: Terrarium, outside space
 + 🐠 **Inspired by animals**: Fish tank, tropical rainforest 
 + 🤖 **Character** design or world **building**
 
@@ -48,14 +48,14 @@ Change the `<h1>` heading of your mood board to match your topic. You can use th
 <span style="color: #0faeb0">**Graphic designers, interior designers, industrial designers, photographers, user interface designers and other creative artists**</span> use mood boards to visually illustrate the style they wish to pursue. Amateur and professional designers alike may use them as an aid for more subjective purposes such as how they want to decorate their bedroom, or the vibe they want to convey through their fashion.
 </p>
 
-The **default.css** file in the starter project includes a colour palette with:
-+ `page` and `onpage`: constrasting colours which are used for the background of your page,
-+ `primary`, `secondary` and `tertiary`: these can be used whenever you want different coloured `<section>` or `<div>` elements,
-+ `onprimary`, `onsecondary` and `ontertiary` used for text to contrast with the primary, secondary and tertiary colours,
-+ `detail` and `detail2` colours which can be used to add coloured highlights.  
+Your mood board will us a colour palette so that it looks appealing with colours that work well together.  
 
-The `page` colour scheme is used outside of the `<main>` content. 
-The `primary` colour scheme is used for content inside `<main>` unless you use a different class. 
+[[[web-colour-palette-variables]]]
+
+You can:
++ Use one of the colour palettes included in the starter project
++ Make your own custom colour palette
++ Create a colour palette from an image
 
 --- task ---
 
@@ -76,10 +76,6 @@ Or, you could choose an image and then select a colour palette to match:
 [[[trinket-image-library]]]
 [[[colours-from-image]]]
 
-You might want to create additional colour variables to use in your project:
-
-[[[add-colour-variables]]]
-
 **Note** that `page` is typically kept white `#ffffff` but you might decide to change it as well. 
 
 --- /task ---
@@ -94,7 +90,7 @@ You might want to create additional colour variables to use in your project:
 
 **Tip:** If you are finding it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
 
-**Tip:** that if you have used one of our themes then you will already have suitable contrasting colours. 
+**Tip:** If you have used one of our themes then you will already have suitable contrasting colours. 
 
 --- /task ---
 
