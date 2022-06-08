@@ -26,6 +26,6 @@ Why not invite your friends to create a project? Let them know how you had fun.
 
 Inspire the Raspberry Pi Foundation community with your project!
 
-To submit your project to our ['Don't fall in - Community'](https://scratch.mit.edu/studios/29601182){:target="_blank"} Scratch studio, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
+To submit your project to our ['Mood board - Community'](https://wke.lt/w/s/1bHup_){:target="_blank"} gallery, please complete [this form](https://form.raspberrypi.org/f/community-project-submissions){:target="_blank"}.
 
 --- /task ---

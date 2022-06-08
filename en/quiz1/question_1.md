@@ -1,8 +1,8 @@
 ## Reflection
 
-Well done, you have learned a lot! Now it's time to reflect - reflecting is an important part of learning because it helps make new connections in your brain.
+Well done, you have practiced your HTML and CSS skills and created your own mood board webpage. What an achievement!
 
-Answer the three questions below to reflect on what you've learned.
+Answer the three questions below to reflect on your experience.
 
 After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
@@ -19,11 +19,15 @@ legend: Question 1 of 3
 
 - ( )
 
+![.](images/image-wide.png)
+
   --- feedback ---
 
   --- /feedback ---
 
 - ( )
+
+![.](images/image-wide-image.png)
 
   --- feedback ---
 
@@ -31,11 +35,15 @@ legend: Question 1 of 3
 
 - (x) 
 
+![.](images/regular-image.png)
+
   --- feedback ---
 
   --- /feedback ---
 
 - ( ) 
+
+![.](images/wide-image.png)
 
   --- feedback ---
 

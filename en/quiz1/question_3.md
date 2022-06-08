@@ -5,35 +5,39 @@
 legend: Question 3 of 3
 ---
 
-
+The `rounded` class sets the `border-radius` of an element. Which HTML elements can you use the `rounded` class with?
 
 --- choices ---
 
-- ( ) 
-
+- ( ) <section> element
 
   --- feedback ---
+
+  Not quite. You can use the `rounded` class on `<section>` elements to create a section with rounded corners, but that's not all.
 
   --- /feedback ---
 
-- ( ) 
-
+- ( ) <div> elements
 
   --- feedback ---
+
+  Not quite. You can use the `rounded` class on `<div>` elements to create a div with rounded corners, but that's not all.
 
   --- /feedback ---
 
-- (x) 
-
+- ( ) <img> elements
 
   --- feedback ---
+
+  Not quite. You can use the `rounded` class on `<img>` elements to create an image with rounded corners, but that's not all.
 
   --- /feedback ---
 
-- ( ) 
-
+- (x) All of the above
 
   --- feedback ---
+
+  Yes, that's correct. You can use the `rounded` class to set the `border-radius` on sections, divs, images and some other elements too. If you didn't try using rounded corners in this project, see if you can use them in the next project. 
 
   --- /feedback ---
 
