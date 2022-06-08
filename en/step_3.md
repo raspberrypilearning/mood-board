@@ -5,7 +5,7 @@
 In this step you will design the overall layout of your mood board and add content sections with placeholder content. 
 </div>
 <div>
-![](images/image.png){:width="300px"}
+![A screenshot of the output of this step. A vibrant web page is shown with sample text and two rows of tiles.](images/step-three.PNG){:width="300px"}
 </div>
 </div>
 
@@ -19,6 +19,8 @@ Think about the sections you want to add. You could sketch your layout on paper 
 
 --- task ---
 
+![A strip of 3 images showing different sets of 3 sections and different colour palettes](images/example-layouts.png)
+
 Add at least three sections to `<main></main>` in your mood board. You can add more if you like: 
 
 [[[full-width-section]]]
@@ -28,6 +30,8 @@ Add at least three sections to `<main></main>` in your mood board. You can add m
 [[[wrapped-regular-width]]]
 
 [[[three-text-tiles]]]
+
+[[[text-image-text]]]
 
 [[[wrapped-wide-narrow]]]
 

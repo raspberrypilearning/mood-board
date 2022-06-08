@@ -5,11 +5,13 @@
 In this step you will fill in your layout with content to create the mood that you want. 
 </div>
 <div>
-![](images/image.png){:width="300px"}
+![A screenshot of the output for this step.](images/step-four.PNG){:width="300px"}
 </div>
 </div>
 
 --- task ---
+
+![Examples of text in a strip.](images/text-examples.png){:width="300px"}
 
 Add any **text** that you want to appear on your mood board. 
 
@@ -27,6 +29,8 @@ Don't spend too much time on the detail of the text. A mood board just sets the 
 --- /task ---
 
 --- task ---
+
+![Examples of images and emoji in a strip.](images/image-emoji-strip.png)
 
 **Choose:** Add images and/or emoji to make your page more interesting. 
 
