@@ -5,7 +5,7 @@
 In this step you can add style to your mood board including font sizes and styles, centering, borders, gradients, transparency or rounded corners. You don't need to add everything! Just add the features that you need to create the effect you want. 
 </div>
 <div>
-![](images/image.png){:width="300px"}
+![A screenshot of the output of this step.](images/step-five.PNG){:width="300px"}
 </div>
 </div>
 
@@ -21,55 +21,13 @@ Use the `primary`, `secondary` and `tertiary` classes to control the colours of 
 
 --- task ---
 
-You can change the size, position and font weight and style of text on your mood board:
+You can change the size, centering and font weight and style of text on your mood board:
 
 [[[web-large-text-tiles]]]
 
---- collapse ---
+[[[web-center-text]]]
 
----
-title: Centering text
----
-
-Some items will automatically be centered because of the style for their element. 
-
-You can use the `xcenter` and `ycenter` classes to center other elements horizontally and vertically. 
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<section class="xcenter ycenter">
-    <h2>A title ...</h2>
-    <p>... and a description.</p>
-</section>
-
---- /code ---
-
---- /collapse ---
-
---- collapse ---
-
----
-title: Bold and italic text
----
-
-Use the `<strong>` and `<em>` tags to emphasise text. `<strong>` is used for important text which should be bold. `<em>` is used for emphasised text that should have an italic (slanted) font.
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-<p>This is <strong>important</strong>.</p>
-<p>This is <em>emphasised</em>.</p>
---- /code ---
-
---- /collapse ---
+[[[web-strong-em]]]
 
 --- /task ---
 
@@ -77,36 +35,9 @@ line_numbers: false
 
 You can add rounded corners, borders, gradients or transparency to style your `<section>` or `<div>` elements. 
 
---- collapse ---
+[[[rounded-corners]]]
 
----
-title: Add rounded corners
----
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
---- code ---
----
-language: html
-filename: index.html
-line_numbers: false
----
-
-<div class="rounded">
-    <p>Add text here</p>
-</div>
-
---- /code ---
-
-**Tip:** You can adjust the `border-radius` of the `rounded` class in 'style.css'.
-
---- /collapse ---
-
+[[[web-borders]]]
 
 --- collapse ---
 
