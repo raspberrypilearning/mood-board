@@ -25,7 +25,7 @@ filename: index.html
     <div class="wide">
         <p>Wide paragraph of text</p>
     </div>
-    <img class="narrow" src="placeholder.png" alt="Description of the image.">
+    <img class="narrow" src="placeholder.png" alt="Placeholder.">
 </section>
 
 --- /code ---
@@ -34,7 +34,7 @@ filename: index.html
 
 - ( )
 
-![.](images/image-wide.png)
+![.](images/image-wide.png){:width="400px"}
 
   --- feedback ---
 
@@ -42,7 +42,7 @@ filename: index.html
 
 - ( )
 
-![.](images/image-wide-image.png)
+![.](images/image-wide-image.png){:width="400px"}
 
   --- feedback ---
 
@@ -50,7 +50,7 @@ filename: index.html
 
 - () 
 
-![.](images/regular-image.png)
+![.](images/regular-image.png){:width="400px"}
 
   --- feedback ---
 
@@ -58,7 +58,7 @@ filename: index.html
 
 - (x) 
 
-![.](images/wide-image.png)
+![.](images/wide-image.png){:width="400px"}
 
   --- feedback ---
 
