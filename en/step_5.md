@@ -35,13 +35,15 @@ You can change the size, centering and font weight and style of text on your moo
 
 ![A strip of examples with gradients, dashed borders and rounded corners.](images/borders-corners.png)
 
-You can add rounded corners, borders, gradients or transparency to style your `<section>` or `<div>` elements. 
+You can add rounded corners, shadows, borders, gradients or transparency to style your `<section>` or `<div>` elements. 
 
 [[[rounded-corners]]]
 
 [[[web-borders]]]
 
 [[[add-a-gradient]]]
+
+[[[web-box-shadow]]]
 
 --- /task ---
 
