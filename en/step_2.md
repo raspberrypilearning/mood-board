@@ -26,6 +26,10 @@ Remember, you don't need to create a complete web page, you are just going to ma
 
 --- /task ---
 
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+Your webpage should not contain any <span style="color: #0faeb0">**personal information**</span> that can reveal your identity and/or location. Be very careful about who you share personal information with.  
+</p>
+
 --- task ---
 
 Open the [mood board starter project](https://trinket.io/html/bb2ee12497){:target="_blank"}
