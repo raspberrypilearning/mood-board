@@ -40,6 +40,10 @@ The starter project includes lots of images that you could use on your mood boar
 
 [[[huge-emoji]]]
 
+There are lots of different emoji to choose from:
+
+[[[choose-an-emoji]]]
+
 **Tip:** It's fine to use the same image or emoji multiple times on your page to quickly fill your page. 
 
 --- /task ---
