@@ -56,45 +56,15 @@ Your mood board will use a colour palette so that it looks appealing with colour
 
 [[[web-colour-palette-variables]]]
 
-You can:
-+ Use one of the colour palettes included in the starter project
-+ Make your own custom colour palette
-+ Create a colour palette from an image
-
 --- task ---
 
-**Choose:** Set the colour palette for your mood board. You will need 5 main colours **primary**, **secondary**, **tertiary**, **detail** and **detail2**.
+**Choose:** Set the colour palette for your mood board. 
 
-You could use one of the 20 included colour palettes or create your own:
+Choose one of the 20 included colour palettes:
 
 ![Examples of colour palettes in strips.](images/palette-examples.png)
 
 [[[hex-colour-palettes]]]
-
-[[[web-colour-palette]]]
-
-Or, you could choose an image and then select a colour palette to match:
-
-![Examples of colour palettes from images.](images/image-palette.png)
-
-[[[trinket-image-library]]]
-[[[colours-from-image]]]
-
-**Note** that `page` is typically kept white `#ffffff` but you might decide to change it as well. 
-
---- /task ---
-
---- task ---
-
-**Choose:** If you haven't used one of our colour palettes then yours will need some contrasting colours to pair with `primary`, `secondary` and `tertiary`. Constrasting colours make the text readable for your user. You can check and adjust your colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
-
-![Examples of a secondary palette with bad contrast and one with good contrast.](images/contrast-examples.png)
-
-[[[contrast-checker]]]
-
-**Tip:** If you are finding it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
-
---- /task ---
 
 --- task ---
 
@@ -106,9 +76,7 @@ Or, you could choose an image and then select a colour palette to match:
 
 ![Examples of fonts in strips.](images/font-examples.png)
 
-**Choose:** Select fonts that work well to set the style of your mood board. 
-
-**Tip:** If you are using one of the css colour palette files included in the starter project matching font variables have been set up for you. You can change the fonts used in these variable if you want to use a different style.   
+The starter project has matching font variables that have been set up for you. You can change the fonts used in these variables if you want to use a different style.   
 
 [[[included-fonts]]]
 [[[web-fonts]]]
@@ -118,7 +86,7 @@ Or, you could choose an image and then select a colour palette to match:
 
 --- task ---
 
-**Test:** Check that your web page is using your new fonts. 
+**Test:** Check that your web page is using your new fonts if you added them. 
 
 --- /task ---
 
