@@ -66,6 +66,8 @@ Choose one of the 20 included colour palettes:
 
 [[[hex-colour-palettes]]]
 
+--- /task ---
+
 --- task ---
 
 **Test:** Check that your web page is using your new colour palette. 
