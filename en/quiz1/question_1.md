@@ -22,10 +22,10 @@ language: html
 filename: index.html
 ---
 <section class="wrap">
-    <div class="wide">
-        <p>Wide paragraph of text</p>
-    </div>
-    <img class="narrow" src="placeholder.png" alt="Placeholder.">
+  <div class="wide dashed-border tile">
+  </div>
+  <div class="narrow dashed-border tile">
+  </div>
 </section>
 
 --- /code ---
@@ -34,33 +34,31 @@ filename: index.html
 
 - ( )
 
-![.](images/image-wide.png){:style="min-width: 400px"}
+![A narrow div then a wide div.](images/narrow-wide.png){:style="min-width: 400px"}
 
   --- feedback ---
+
+Not quite, look closer at the classes used on each div.
 
   --- /feedback ---
 
 - ( )
 
-![.](images/image-wide-image.png){:width="400px"}
+![Two same sized divs.](images/normal-normal.png){:width="400px"}
 
   --- feedback ---
 
-  --- /feedback ---
-
-- () 
-
-![.](images/regular-image.png){:width="400px"}
-
-  --- feedback ---
+Not quite, there is a class used that controls the size of each div.
 
   --- /feedback ---
 
 - (x) 
 
-![.](images/wide-image.png){:width="400px"}
+![A wide div then a narrow div.](images/wide-narrow.png){:width="400px"}
 
   --- feedback ---
+
+That's right, this code will create two divs with dashed border. The first one is wide the second narrow. 
 
   --- /feedback ---
 
