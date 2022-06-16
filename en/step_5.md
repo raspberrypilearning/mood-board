@@ -57,6 +57,14 @@ You might want to create additional colour variables to use in your project:
 
 --- task ---
 
+You might want to add your own class. This example adds a class for a photograph effect.
+
+[[[web-add-class]]]
+
+--- /task ---
+
+--- task ---
+
 **Test:** Check that you are happy with the way your mood board looks. Don't feel that you have to use lots of different effects, sometimes less is more! 
 
 --- /task ---
