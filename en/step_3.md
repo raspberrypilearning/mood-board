@@ -45,5 +45,11 @@ Add at least three sections to `<main></main>` in your mood board. You can add m
 
 **Test:** Check that you are happy with the layout of the page. Don't worry about the actual content or images yet. You will add those in the next step.
 
+**My webpage isn't displaying correctly**
+
+[[[incorrect-tags]]]
+
+[[[mismatched-tags]]]
+
 --- /task ---
 

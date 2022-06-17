@@ -99,4 +99,8 @@ Adding the `tile` class will make every element with that class the same height:
 
 **Test:** Have a look at your web page and make sure you are happy with the content. 
 
+[[[image-not-displayed]]]
+
+[[[web-debug-link]]]
+
 --- /task ---
