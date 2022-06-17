@@ -1,10 +1,10 @@
 ## What next?
 
-If you are following the [Intro to Web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) path, you should move on to the [Sell it to me](https://projects.raspberrypi.org/en/projects/sell-it-to-me) project. In this project, you will make a web page to promote a product or idea.
+If you are following the [Intro to Web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) path, you should move on to the [Sell me Something](https://projects.raspberrypi.org/en/projects/sell-me-something) project. In this project, you will make a web page to promote a product or idea.
 
 --- print-only ---
 
-![Sell it to me project](images/sell-it-to-me-project.png)
+![Sell me something project](images/sellmesomething.PNG)
 
 --- /print-only ---
 
