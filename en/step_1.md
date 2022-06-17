@@ -1,6 +1,6 @@
 ## Introduction
 
-In this project, create a mood board web page for a real or imaginary project. It could be a redesign of your bedroom, a fashion item, a party, a website, or as a reminder of all the things that make you happy.
+In this project you will create a mood board web page for a real or imaginary project. It could be a redesign of your bedroom, a fashion item, a party, a website, or as a reminder of all the things that make you happy.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
 A <span style="color: #0faeb0">**mood board**</span> is a collage that arranges images, fonts, colours, and other design elements to create a look or style for a project. Mood boards can be used for creating brand designs, product designs, and pretty much any other type of design project.
