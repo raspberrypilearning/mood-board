@@ -32,7 +32,7 @@ Your webpage should not contain any <span style="color: #0faeb0">**personal info
 
 --- task ---
 
-Open the [mood board starter project](https://trinket.io/html/bb2ee12497){:target="_blank"}
+Open the [mood board starter project](https://trinket.io/embed/html/bb2ee12497){:target="_blank"}
 
 --- /task ---
 
