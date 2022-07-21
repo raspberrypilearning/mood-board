@@ -1,17 +1,17 @@
-## Layout your mood board
+## Choose a layout for your mood board
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you will design the overall layout of your mood board and add content sections with placeholder content. 
+In this step, you will design the overall layout of your mood board and add content sections with placeholder content. 
 </div>
 <div>
-![A screenshot of the output of this step. A vibrant web page is shown with sample text and two rows of tiles.](images/step-three.PNG){:width="300px"}
+![A vibrant webpage that is blue, yellow, and red. The webpage has sample text and two rows of tiles.](images/step-three.PNG){:width="300px"}
 </div>
 </div>
 
 --- task ---
 
-Your mood board will have several sections of content using a combination of text, images or emoji. 
+Your mood board will have several sections of content, using a combination of text, images, or emojis. 
 
 Think about the sections you want to add. You could sketch your layout on paper if you prefer. 
 
@@ -19,7 +19,7 @@ Think about the sections you want to add. You could sketch your layout on paper 
 
 --- task ---
 
-![A strip of 3 images showing different sets of 3 sections and different colour palettes](images/example-layouts.png)
+![A strip of three images to show different sets of three sections and different colour palettes.](images/example-layouts.png)
 
 Add at least three sections to `<main></main>` in your mood board. You can add more if you like: 
 
