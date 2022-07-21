@@ -1,17 +1,17 @@
 ## Introduction
 
-In this project you will create a mood board web page for a real or imaginary project. It could be a redesign of your bedroom, a fashion item, a party, a website, or as a reminder of all the things that make you happy.
+In this project, you will create a mood board webpage for a real or imaginary project. You could make a mood board to redesign your bedroom or to represent a fashion item, party, or website. Alternatively, your mood board could be a reminder of all the things that make you happy.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**mood board**</span> is a collage that arranges images, fonts, colours, and other design elements to create a look or style for a project. Mood boards can be used for creating brand designs, product designs, and pretty much any other type of design project.
+A <span style="color: #0faeb0">**mood board**</span> is a collage that arranges images, fonts, colours, and other design elements to create a look or style for a project. Mood boards can be used to create brand designs, product designs, and pretty much any other type of design project.
 </p>
 
 You will:
-+ Have multiple sections with different layouts.
-+ Use different colours and fonts that work well together.
-+ Use images, emoji or both. 
++ Have multiple sections with different layouts in your webpage
++ Use different colours and fonts that work well together
++ Use images, emojis, or both 
 
-![A line of images from example projects with different colours, fonts and layouts.](images/example-strip.png)
+![A line of images from example projects. The projects have different colours, fonts, and layouts.](images/example-strip.png)
 
 --- no-print ---
 
@@ -20,7 +20,7 @@ You will:
 ### Try it
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-A way to feel happier is to remember what is important to you. You could make a list of things that make you happy then create a mood board to display them together.
+One way to feel happier is to remember what is important to you. You could make a list of things that make you happy and then create a mood board to display them together.
 </div>
 <div>
 **Happiness**: [See inside](https://trinket.io/html/42802541b7){:target="_blank"}
@@ -33,7 +33,7 @@ A way to feel happier is to remember what is important to you. You could make a 
 
 ### Get inspiration 
 
-You are going to make some design decisions to create your mood board.
+You need to make some design decisions to create your mood board.
 
 --- task ---
 
