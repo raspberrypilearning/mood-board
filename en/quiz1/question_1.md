@@ -1,6 +1,6 @@
 ## Reflection
 
-Well done, you have practiced your HTML and CSS skills and created your own mood board webpage. What an achievement!
+Well done, you have practised your HTML and CSS skills and created your own mood board webpage. What an achievement!
 
 Answer the three questions below to reflect on your experience.
 
@@ -34,31 +34,31 @@ filename: index.html
 
 - ( )
 
-![A narrow div then a wide div.](images/narrow-wide.png){:style="min-width: 400px"}
+![A narrow div then a wide `<div>`.](images/narrow-wide.png){:style="min-width: 400px"}
 
   --- feedback ---
 
-Not quite, look closer at the classes used on each div.
+Not quite, look closer at the classes used on each `<div>`.
 
   --- /feedback ---
 
 - ( )
 
-![Two same sized divs.](images/normal-normal.png){:width="400px"}
+![Two same sized `<div>` elements.](images/normal-normal.png){:width="400px"}
 
   --- feedback ---
 
-Not quite, there is a class used that controls the size of each div.
+Not quite, there is a class used that controls the size of each `<div>`.
 
   --- /feedback ---
 
 - (x) 
 
-![A wide div then a narrow div.](images/wide-narrow.png){:width="400px"}
+![A wide `<div>` then a narrow `<div>`.](images/wide-narrow.png){:width="400px"}
 
   --- feedback ---
 
-That's right, this code will create two divs with dashed border. The first one is wide the second narrow. 
+That's right, this code creates two `<div>` with dashed border. The first one is wide the second narrow. 
 
   --- /feedback ---
 
