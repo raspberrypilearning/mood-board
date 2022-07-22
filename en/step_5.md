@@ -65,6 +65,6 @@ You may want to add your own class. This example adds a class for a photograph e
 
 --- task ---
 
-**Test:** Check that you are happy with the way your mood board looks. Don't feel that you have to use lots of different effects. Remeber &mdash; sometimes less is more! 
+**Test:** Check that you are happy with the way your mood board looks. Don't feel that you have to use lots of different effects. Remember &mdash; sometimes less is more! 
 
 --- /task ---
