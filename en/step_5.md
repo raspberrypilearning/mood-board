@@ -35,7 +35,7 @@ You can change the size, centering, and font weight and style of text on your mo
 
 ![A strip of examples with gradients, dashed borders, and rounded corners.](images/borders-corners.png)
 
-You can add rounded corners, shadows, borders, gradients, or transparency to style your `<section>` or `<div>` elements. 
+You can add rounded corners, shadows, borders, gradients, and transparency to style your `<section>` or `<div>` elements. 
 
 [[[rounded-corners]]]
 
@@ -65,6 +65,6 @@ You may want to add your own class. This example adds a class for a photograph e
 
 --- task ---
 
-**Test:** Check that you are happy with the way your mood board looks. Don't feel that you have to use lots of different effects, sometimes less is more! 
+**Test:** Check that you are happy with the way your mood board looks. Don't feel that you have to use lots of different effects. Remeber &mdash; sometimes less is more! 
 
 --- /task ---
