@@ -40,7 +40,7 @@ The starter project includes lots of images that you could use on your mood boar
 
 [[[huge-emoji]]]
 
-There are lots of different emojis to choose from:
+There are lots of different emojis to choose from.
 
 [[[choose-an-emoji]]]
 
