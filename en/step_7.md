@@ -19,23 +19,23 @@ Or, you could choose an image and then select a colour palette to match:
 [[[trinket-image-library]]]
 [[[colours-from-image]]]
 
-**Note** that `page` is typically kept white `#ffffff` but you might decide to change it as well. 
+**Note** that `page` is typically kept white `#ffffff`, but you might decide to change it as well. 
 
 + Check that you colour palette uses contrasting colours
 
-Constrasting colours make the text readable for your user. You can check and adjust your colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
+Contrasting colours make the text readable for your user. You can check and adjust your colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
 
-![Examples of a secondary palette with bad contrast and one with good contrast.](images/contrast-examples.png)
+![alt=""](images/contrast-examples.png)
 
 [[[contrast-checker]]]
 
-**Tip:** If you are finding it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
+**Tip:** If you find it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
 
 + Replace 'lorem ipsum' placeholder text with text that helps to set the mood
-+ Add more images or emoji
++ Add more images or emojis
 + Add more sections of content
 + Add really helpful image `alt` text that would help set the mood for a person using a screen reader
-+ Experiment with different border, gradient or transparency effects
++ Experiment with different border, gradient, or transparency effects
 + Create a different mood board using different techniques and styles 
 
 --- /task ---
