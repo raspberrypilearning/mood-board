@@ -4,7 +4,7 @@ Well done, you have practised your HTML and CSS skills and created your own mood
 
 Answer the three questions below to reflect on your experience.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
 Have fun!
 
@@ -34,7 +34,7 @@ filename: index.html
 
 - ( )
 
-![A narrow div then a wide `<div>`.](images/narrow-wide.png){:style="min-width: 400px"}
+![A narrow `<div>` then a wide `<div>`.](images/narrow-wide.png){:style="min-width: 400px"}
 
   --- feedback ---
 
