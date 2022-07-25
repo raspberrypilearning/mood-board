@@ -12,14 +12,14 @@ You could:
 
 [[[web-colour-palette]]]
 
-Or, you could choose an image and then select a colour palette to match:
+Or, you could choose an image and then select a colour palette to match.
 
 ![Examples of colour palettes from images.](images/image-palette.png)
 
 [[[trinket-image-library]]]
 [[[colours-from-image]]]
 
-**Note** that `page` is typically kept white `#ffffff`, but you might decide to change it as well. 
+**Notice** that `page` is typically kept white `#ffffff`, but you might decide to change it as well. 
 
 + Check that you colour palette uses contrasting colours
 
