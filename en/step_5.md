@@ -21,7 +21,7 @@ Use the `primary`, `secondary`, and `tertiary` classes to control the colours of
 
 --- task ---
 
-You can change the size, centering, and font weight and style of text on your mood board.
+You can change the size, centering, font weight, and style of text on your mood board.
 
 [[[web-large-text-tiles]]]
 
