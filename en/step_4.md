@@ -20,7 +20,7 @@ Add any **text** that you want to appear on your mood board.
 + Nonsense placeholder text ('lorem ipsum') to give an idea of what the text would look like
 + An inspirational quote
 
-Don't spend too much time on the detail of the text. A mood board just sets the mood for your project. 
+Don't spend too much time on the text details. A mood board just sets the mood for your project. 
 
 [[[add-placeholder-text]]]
 
