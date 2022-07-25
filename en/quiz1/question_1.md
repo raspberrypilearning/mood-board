@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-Which is the output of this piece of code?
+Which answer is the output of this piece of code?
 
 --- code ---
 ---
@@ -38,7 +38,7 @@ filename: index.html
 
   --- feedback ---
 
-Not quite, look closer at the classes used on each `<div>`.
+Not quite. Look closer at the classes used on each `<div>` element.
 
   --- /feedback ---
 
@@ -48,7 +48,7 @@ Not quite, look closer at the classes used on each `<div>`.
 
   --- feedback ---
 
-Not quite, there is a class used that controls the size of each `<div>`.
+Not quite. There is a class used that controls the size of each `<div>` element.
 
   --- /feedback ---
 
@@ -58,7 +58,7 @@ Not quite, there is a class used that controls the size of each `<div>`.
 
   --- feedback ---
 
-That's right, this code creates two `<div>` with dashed border. The first one is wide the second narrow. 
+That's right. This code creates two `<div>` elements with a dashed border. The first one is wide and the second one is narrow. 
 
   --- /feedback ---
 
