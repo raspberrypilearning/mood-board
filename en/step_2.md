@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will choose a topic for your mood board and choose a matching colour palette and fonts. You will also need to check that your colour palette has good contrast so that it is accessible. 
+In this step, you will decide on a topic for your mood board and choose a matching colour palette and fonts. You will also need to check that your palette has good colour contrast so that it is accessible. 
 </div>
 <div>
 ![A summer party webpage.](images/step-two.PNG){:width="300px"}
@@ -60,7 +60,7 @@ Your mood board will use a colour palette so that it looks appealing with colour
 
 **Choose:** Set the colour palette for your mood board. 
 
-Choose one of the 20 included colour palettes:
+Choose one of the 20 included colour palettes.
 
 ![Examples of colour palettes in strips.](images/palette-examples.png)
 
@@ -88,7 +88,7 @@ The starter project has matching font variables that have been set up for you. Y
 
 --- task ---
 
-**Test:** Check that your webpage uses your new fonts, if you added them. 
+**Test:** Check that your webpage uses your new fonts, if you have added them. 
 
 --- /task ---
 
@@ -100,11 +100,11 @@ If you have a Trinket account, you can click on the **Remix** button to save a c
 
 If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
 
-You can also publish your saved mood board to see what it would look like as a full webpage. Each time you save your project, your published site is updated: 
+You can also publish your saved mood board to see what it would look like as a full webpage. Each time you save your project, your published site is updated. 
 
 [[[trinket-publish-project]]]
 
-**Tip:** To make your mood board viewable by people with disabilities and appealing to a wide audience, you need to make sure it is accessible: 
+**Tip:** To make your mood board viewable by people with disabilities and appealing to a wide audience, you need to make sure it is accessible. 
 
 [[[check-accessibility]]]
 
