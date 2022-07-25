@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-Which answer is the output of this piece of code?
+Which option is the output of this piece of code?
 
 --- code ---
 ---
