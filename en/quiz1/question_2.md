@@ -21,7 +21,7 @@ You have been given some options for background and text colours to use in a pro
 
   --- feedback ---
 
-  Not quite. The background and text colours don't have enough contrast which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough. 
+  Not quite. The background and text colours don't have enough contrast, which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough. 
 
   --- /feedback ---
 
@@ -29,7 +29,7 @@ You have been given some options for background and text colours to use in a pro
 
   --- feedback ---
 
-  Not quite. The background and text colours don't have enough contrast which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough. 
+  Not quite. The background and text colours don't have enough contrast, which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough. 
 
   --- /feedback ---
 
