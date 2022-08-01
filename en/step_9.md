@@ -8,14 +8,12 @@ If you are following the [Intro to web](https://projects.raspberrypi.org/en/rasp
 
 --- /print-only ---
 
-<mark>Update with examples when ready</mark>
-
 --- no-print ---
 
 <div>
-**Happiness**: [See inside](https://trinket.io/html/42802541b7){:target="_blank"}
+**Skateboarding**: 
 
-<iframe src="https://trinket.io/embed/html/42802541b7?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://trinket.io/embed/html/87d81b7512?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
 </div>
 
 --- /no-print ---

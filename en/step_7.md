@@ -8,6 +8,14 @@ If you have time, you could add more to your mood board or improve the design.
 
 You could:
 
++ Replace 'lorem ipsum' placeholder text with text that helps to set the mood
++ Add more images or emojis
++ Add more sections of content
++ Add really helpful image `alt` text that would help set the mood for a person using a screen reader
++ Experiment with different border, gradient, or transparency effects
++ Create a different mood board using different techniques and styles 
+
+You could also:
 + Adjust the colour palette
 
 [[[web-colour-palette]]]
@@ -30,13 +38,6 @@ Contrasting colours make the text readable for your user. You can check and adju
 [[[contrast-checker]]]
 
 **Tip:** If you find it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
-
-+ Replace 'lorem ipsum' placeholder text with text that helps to set the mood
-+ Add more images or emojis
-+ Add more sections of content
-+ Add really helpful image `alt` text that would help set the mood for a person using a screen reader
-+ Experiment with different border, gradient, or transparency effects
-+ Create a different mood board using different techniques and styles 
 
 --- /task ---
 
