@@ -4,13 +4,13 @@ If you are in a club, why not share your project with friends? You could also sh
 
 --- task ---
 
-**Show:** Show your mood board to someone and ask them to describe how it makes them feel. Does it match the mood you were trying to create.
+**Show** your mood board to someone and ask them to describe how it makes them feel. Does what they say match the mood you were trying to create?
 
 --- /task ---
 
 --- task ---
 
-**Share:** You can get a sharable web link (url) for your project:
+**Share:** You can get a shareable web link (url) for your project.
 
 [[[share-project]]]
 
