@@ -1,10 +1,10 @@
 ## Reflection
 
-Well done, you have practiced your HTML and CSS skills and created your own mood board webpage. What an achievement!
+Well done, you have practised your HTML and CSS skills and created your own mood board webpage. What an achievement!
 
 Answer the three questions below to reflect on your experience.
 
-After each question, press submit. You will be guided towards the correct answer. You can do this activity as many times as you want to.
+You will be guided towards the correct answer. You can do this activity as many times as you want to.
 
 Have fun!
 
@@ -14,7 +14,7 @@ Have fun!
 legend: Question 1 of 3
 ---
 
-Which is the output of this piece of code?
+Which option is the output of this piece of code?
 
 --- code ---
 ---
@@ -34,31 +34,31 @@ filename: index.html
 
 - ( )
 
-![A narrow div then a wide div.](images/narrow-wide.png){:style="min-width: 400px"}
+![A narrow <code><div></code> then a wide <code><div></code>.](images/narrow-wide.png){:style="min-width: 400px"}
 
   --- feedback ---
 
-Not quite, look closer at the classes used on each div.
+Not quite. Look closer at the classes used on each `<div>` element.
 
   --- /feedback ---
 
 - ( )
 
-![Two same sized divs.](images/normal-normal.png){:width="400px"}
+![Two same sized <code><div></code> elements.](images/normal-normal.png){:width="400px"}
 
   --- feedback ---
 
-Not quite, there is a class used that controls the size of each div.
+Not quite. There is a class used that controls the size of each `<div>` element.
 
   --- /feedback ---
 
 - (x)
 
-![A wide div then a narrow div.](images/wide-narrow.png){:width="400px"}
+![A wide <code><div></code> then a narrow <code><div></code>.](images/wide-narrow.png){:width="400px"}
 
   --- feedback ---
 
-That's right, this code will create two divs with dashed border. The first one is wide the second narrow.
+That's right. This code creates two `<div>` elements with a dashed border. The first one is wide and the second one is narrow.
 
   --- /feedback ---
 
