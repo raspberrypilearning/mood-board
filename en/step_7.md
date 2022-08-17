@@ -2,8 +2,6 @@
 
 If you have time, you could add more to your mood board or improve the design.
 
-<mark>Add upgrade project when available.</mark>
-
 --- task ---
 
 You could:
@@ -40,4 +38,10 @@ Contrasting colours make the text readable for your user. You can check and adju
 **Tip:** If you find it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds. 
 
 --- /task ---
+
+<div>
+**Doodle inspiration upgrade**: [See inside](https://trinket.io/html/53045685dc){:target="_blank"}
+
+<iframe src="https://trinket.io/embed/html/53045685dc?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+</div>
 
