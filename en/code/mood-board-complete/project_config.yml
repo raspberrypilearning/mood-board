@@ -1,4 +1,4 @@
-1name: 'Happiness mood board'
+firer mood board'
 identifier: 'mood-board-complete'
 type: 'html'
 components:
@@ -60,7 +60,7 @@ components:
   - name: 'helpful-plumber'
     extension: 'css'
     location: 'helpful-plumber.css'
-    index:11
+    index: 11
     default: false
   - name: 'land-animals'
     extension: 'css'
