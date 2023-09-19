@@ -24,102 +24,102 @@ components:
     default: false
   - name: 'cafe'
     extension: 'css'
-    location: 'cafe.css'
+    location: cafe.css
     index: 5
     default: false
   - name: 'comic'
     extension: 'css'
-    location: 'comic.css'
+    location: comic.css
     index: 6
     default: false
   - name: 'companion'
     extension: 'css'
-    location: 'companion.css'
+    location: companion.css
     index: 7
     default: false
   - name: 'disco'
     extension: 'css'
-    location: 'disco.css'
+    location: disco.css
     index: 8
     default: false
   - name: 'festival'
     extension: 'css'
-    location: 'festival.css'
+    location: festival.css
     index: 9
     default: false
   - name: 'fiesta'
     extension: 'css'
-    location: 'fiest.css'
+    location: fiest.css
     index: 10
     default: false
   - name: 'helpful-plumber'
     extension: 'css'
-    location: 'helpful-plumber.css'
+    location: helpful-plumber.css
     index:11
     default: false
   - name: 'land-animals'
     extension: 'css'
-    location: 'land-animals.css'
+    location: land-animals.css
     index: 12
     default: false
   - name: 'medals'
     extension: 'css'
-    location: 'medals.css'
+    location: medals.css
     index: 13
     default: false
   - name: 'money'
     extension: 'css'
-    location: 'money.css'
+    location: money.css
     index: 14
     default: false
   - name: 'nature'
     extension: 'css'
-    location: 'nature.css'
+    location: nature.css
     index: 15
     default: false
   - name: 'pastel'
     extension: 'css'
-    location: 'pastel.css'
+    location: pastel.css
     index: 16
     default: false
   - name: 'primary'
     extension: 'css'
-    location: 'primary.css'
+    location: primary.css
     index: 17
     default: false
   - name: 'smokey'
     extension: 'css'
-    location: 'smokey.css'
+    location: smokey.css
     index: 18
     default: false
   - name: 'space'
     extension: 'css'
-    location: 'space.css'
+    location: space.css
     index: 19
     default: false
   - name: 'sunset'
     extension: 'css'
-    location: 'sunset.css'
+    location: sunset.css
     index: 20
     default: false
   - name: 'sunshine'
     extension: 'css'
-    location: 'sunshine.css'
+    location: sunshine.css
     index: 21
     default: false
   - name: 'thriller'
     extension: 'css'
-    location: 'thriller.css'
+    location: thriller.css
     index: 22
     default: false
   - name: 'water-animals'
     extension: 'css'
-    location: 'water-animals.css'
+    location: water-animals.css
     index: 23
     default: false
   - name: 'woodland'
     extension: 'css'
-    location: 'woodland.css'
+    location: woodland.css
     index: 24
     default: false    
 image:
