@@ -59,12 +59,12 @@ components:
     default: false
   - name: 'helpful-plumber'
     extension: 'css'
-    location: 'helpful-plumber.css'
+    location: 'helpful_plumber.css'
     index: 11
     default: false
-  - name: 'land-animals'
+  - name: 'land_animals'
     extension: 'css'
-    location: 'land-animals.css'
+    location: 'land_animals.css'
     index: 12
     default: false
   - name: 'medals'
@@ -119,7 +119,7 @@ components:
     default: false
   - name: 'water-animals'
     extension: 'css'
-    location: 'water-animals.css'
+    location: 'water_animals.css'
     index: 23
     default: false
 image:
