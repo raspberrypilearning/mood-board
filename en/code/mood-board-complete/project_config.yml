@@ -121,8 +121,7 @@ components:
     extension: 'css'
     location: 'woodland.css'
     index: 24
-    default: false
-    
+    default: false    
 image:
   - "sunflowers.jpeg"
   - "placeholder.png"
