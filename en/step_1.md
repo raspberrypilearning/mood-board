@@ -39,7 +39,7 @@ You need to make some design decisions to create your mood board.
 
 Explore these example projects to get more ideas:
 
-**Beetle**: [See inside][See inside](https://staging-editor.raspberrypi.org/en/projects/beetle-mood-board){:target="_blank"}
+**Beetle**: [See inside](https://staging-editor.raspberrypi.org/en/projects/beetle-mood-board){:target="_blank"}
 
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
