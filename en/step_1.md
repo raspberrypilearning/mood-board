@@ -23,9 +23,9 @@ You will:
 One way to feel happier is to remember what is important to you. You could make a list of things that make you happy and then create a mood board to display them together.
 </div>
 <div>
-**Happiness**: [See inside](https://staging-editor.raspberrypi.org/en/projects/mood-board-complete){:target="_blank"}
+**Happiness**: [See inside](https://staging-editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/mood-board-complete" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 
@@ -39,9 +39,9 @@ You need to make some design decisions to create your mood board.
 
 Explore these example projects to get more ideas:
 
-**Beetle**: [See inside](https://trinket.io/html/73702c6b80){:target="_blank"}
-<div>
-<iframe src="https://trinket.io/embed/html/73702c6b80?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**Beetle**: [See inside][See inside](https://staging-editor.raspberrypi.org/en/projects/beetle-mood-board){:target="_blank"}
+
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 **Colours of India**: [See inside](https://trinket.io/html/4fbecc95e7){:target="_blank"}

@@ -1,5 +1,5 @@
-firer mood board'
-identifier: 'mood-board-complete'
+name: 'Happiness mood board'
+identifier: 'happiness-mode-board'
 type: 'html'
 components:
   - name: 'index'
