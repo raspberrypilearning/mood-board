@@ -57,7 +57,7 @@ components:
     location: fiest.css
     index: 10
     default: false
-  - name: 'helpful-plumber'
+  - name: 'helpful_plumber'
     extension: 'css'
     location: 'helpful_plumber.css'
     index: 11
@@ -128,6 +128,9 @@ image:
   - "duck.jpg"
   - "beach.jpg"
   - "oranges.jpeg"
+
+
+
 
 
 
