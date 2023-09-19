@@ -1,5 +1,5 @@
-name: 'Happiness mood board'
-identifier: 'happiness-mode-board'
+name: 'Beetle mood board'
+identifier: 'beetle-mood-board'
 type: 'html'
 components:
   - name: 'index'
@@ -128,9 +128,6 @@ image:
   - "duck.jpg"
   - "beach.jpg"
   - "oranges.jpeg"
-
-
-
 
 
 

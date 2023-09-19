@@ -115,9 +115,11 @@ strong {
 
 ol,
 ul {
+  display: inline-block;
   text-align: left;
   padding-left: 2rem;
 }
+
 
 /* Padding around paragraphs */
 
@@ -286,4 +288,19 @@ cite {
 
 .highlight {
   color: var(--detail2);
+}
+
+/* Printed photo style */
+
+.photo {
+  border: 1px solid #D0D0D0; /* Add a solid border */
+  width: 14rem;
+  height: 15rem;
+  background: #ffffff;
+  padding-top: 1rem;
+  padding-left: 1rem;
+  padding-right: 1rem;
+  padding-bottom: 3rem;
+  box-shadow: 8px 8px 10px 4px var(--detail2); /* right and bottom shadow, blur, spread and colour */
+  transform: rotate(3deg);
 }
