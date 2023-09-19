@@ -1,5 +1,5 @@
-name: 'Beetle mood board'
-identifier: 'beetle-mood-board'
+name: 'Happiness mood board'
+identifier: 'happiness-mood-board'
 type: 'html'
 components:
   - name: 'index'
