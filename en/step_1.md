@@ -25,7 +25,7 @@ One way to feel happier is to remember what is important to you. You could make 
 <div>
 **Happiness**: [See inside](https://staging-editor.raspberrypi.org/en/projects/mood-board-complete){:target="_blank"}
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/mood-board-complete" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/flip-treat-webcards-complete" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 
