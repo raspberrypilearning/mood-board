@@ -60,7 +60,7 @@ components:
   - name: 'helpful_plumber'
     extension: 'css'
     location: 'helpful_plumber.css'
-    index:11
+    index: 11
     default: false
   - name: 'land_animals'
     extension: 'css'
