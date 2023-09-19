@@ -4,7 +4,7 @@ type: 'html'
 components:
   - name: 'index'
     extension: 'html'
-    location: 'index.html'
+    location: index.html
     index: 0
     default: true
   - name: 'animation'
@@ -22,6 +22,11 @@ components:
     location: default.css
     index: 3
     default: false
+  - name: 'woodland'
+    extension: 'css'
+    location: woodland.css
+    index: 4
+    default: false    
   - name: 'cafe'
     extension: 'css'
     location: cafe.css
@@ -54,12 +59,12 @@ components:
     default: false
   - name: 'helpful-plumber'
     extension: 'css'
-    location: helpful-plumber.css
+    location: 'helpful-plumber.css'
     index:11
     default: false
   - name: 'land-animals'
     extension: 'css'
-    location: land-animals.css
+    location: 'land-animals.css'
     index: 12
     default: false
   - name: 'medals'
@@ -114,14 +119,9 @@ components:
     default: false
   - name: 'water-animals'
     extension: 'css'
-    location: water-animals.css
+    location: 'water-animals.css'
     index: 23
     default: false
-  - name: 'woodland'
-    extension: 'css'
-    location: woodland.css
-    index: 24
-    default: false    
 image:
   - "sunflowers.jpeg"
   - "placeholder.png"
