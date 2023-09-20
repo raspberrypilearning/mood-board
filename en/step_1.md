@@ -23,9 +23,10 @@ You will:
 One way to feel happier is to remember what is important to you. You could make a list of things that make you happy and then create a mood board to display them together.
 </div>
 <div>
-**Happiness**: [See inside](https://staging-editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
 
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+**Happiness**: [See inside](https://staging-editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
+<div><iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>
 </div>
 </div>
 
