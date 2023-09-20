@@ -2,19 +2,20 @@
 /* Set up colour palette and fonts using variables */
 
 :root {
-  --primary: #35bbca;
-  --onprimary:#000000;
-  --secondary: #0191b4;
-  --onsecondary:#ffffff;
-  --tertiary:#f8d90f;
-  --ontertiary: #000000;
+  --primary: #E54F6D;
+  --onprimary:#ffffff;
+  --secondary: #F8C630;
+  --onsecondary:#22162B;
+  --tertiary:#724E91;
+  --ontertiary: #ffffff;
   --page:#ffffff;
-  --onpage:#000000;
-  --detail: #fe7a15;
-  --detail2: #d3dd18;
-
-  --body-font: 1rem Verdana, serif;
-  --header-font: 3rem "Nunito", cursive;
-  --title-font: lighter 2rem "Nunito", cursive;
-  --quote-font: lighter 2rem "Fredoka One", cursive;
+  --onpage:#724E91;
+  --detail: #a5a58d;
+  --detail2: #ec8e75;
+  
+  
+  --body-font: 1rem Verdana, sans-serif;
+  --body-font: 1rem 'Work Sans', sans-serif;
+  --header-font: 2.5rem 'Barrio', cursive;
+  --title-font: 2rem 'Work Sans', sans-serif;
 }

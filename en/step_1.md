@@ -44,12 +44,12 @@ Explore these example projects to get more ideas:
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Colours of India**: [See inside](https://staging-editor.raspberrypi.org/en/projects/tarvel-mood-board){:target="_blank"}
+**Colours of India**: [See inside](https://staging-editor.raspberrypi.org/en/projects/travel-mood-board){:target="_blank"}
 <div>
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/travel-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Doodles**: [See inside](https://staging-editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
+**Doodles**: [See inside](https://staging-editor.raspberrypi.org/en/projects/doodle-mood-board){:target="_blank"}
 <div>
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/doodle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
