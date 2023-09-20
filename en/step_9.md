@@ -11,9 +11,12 @@ If you are following the [Intro to web](https://projects.raspberrypi.org/en/rasp
 --- no-print ---
 
 <div>
-**Skateboarding**: 
-
-<iframe src="https://trinket.io/embed/html/87d81b7512?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**Skateboarding**: [See inside](https://staging-editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
+<div>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
+
 --- /no-print ---
+
+
