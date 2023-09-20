@@ -248,11 +248,6 @@ cite {
   color: var(--ontertiary);
 }
 
-.shadow {
-   box-shadow: 5px 5px 3px 0px #888888; /* right and bottom shadow size, blur, spread and colour */
-   /*box-shadow: 5px 5px 4px 2px var(--detail);*/
-}
-
 .wrap .card {
   width: 10rem;
   height: 10rem;

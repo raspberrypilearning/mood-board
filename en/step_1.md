@@ -44,14 +44,14 @@ Explore these example projects to get more ideas:
 <iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Colours of India**: [See inside](https://trinket.io/html/4fbecc95e7){:target="_blank"}
+**Colours of India**: [See inside](https://staging-editor.raspberrypi.org/en/projects/tarvel-mood-board){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/4fbecc95e7?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/travel-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Doodles**: [See inside](https://trinket.io/html/8dd1f6474e){:target="_blank"}
+**Doodles**: [See inside](https://staging-editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/8dd1f6474e?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/doodle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
