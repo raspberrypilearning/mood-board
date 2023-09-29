@@ -96,16 +96,4 @@ The starter project has matching font variables that have been set up for you. Y
 
 Now that you have decided the theme for your mood board webpage, and created your colours and fonts, it is a good idea to save your project. 
 
-If you have a Trinket account, you can click on the **Remix** button to save a copy to your **My Trinkets** library.
-
-If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
-
-You can also publish your saved mood board to see what it would look like as a full webpage. Each time you save your project, your published site is updated. 
-
-[[[trinket-publish-project]]]
-
-**Tip:** To make your mood board viewable by people with disabilities and appealing to a wide audience, you need to make sure it is accessible. 
-
-[[[check-accessibility]]]
-
 --- /task ---
