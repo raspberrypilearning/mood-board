@@ -22,7 +22,7 @@ What is the topic of your mood board?
 + 🐠 **Inspired by animals**: Fish tank, tropical rainforest 
 + 🤖 **Character** design or world **building**
 
-Remember, you don't need to create a complete webpage. For the project, you need to make a webpage that is visually appealing and sets a mood.
+For the project, you need to make a webpage that is visually appealing and sets a mood.
 
 --- /task ---
 
