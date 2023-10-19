@@ -101,6 +101,4 @@ Add the `tile` class to make every element with that class the same height.
 
 [[[image-not-displayed]]]
 
-[[[web-debug-link]]]
-
 --- /task ---
