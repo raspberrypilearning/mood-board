@@ -44,7 +44,7 @@ There are lots of different emojis to choose from.
 
 [[[choose-an-emoji]]]
 
-**Tip:** It's fine to use the same image or emoji multiple times on your webpage to quickly fill your page. 
+**Tip:** It is fine to use the same image or emoji multiple times on your webpage to quickly fill your page. 
 
 --- /task ---
 
