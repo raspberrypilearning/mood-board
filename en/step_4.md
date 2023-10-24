@@ -36,7 +36,7 @@ Don't spend too much time on the text details. A mood board just sets the mood f
 
 The starter project includes lots of images that you could use on your mood board. 
 
-[[[trinket-image-library]]]
+[[[rpfeditor-image-library]]]
 
 [[[huge-emoji]]]
 
