@@ -32,7 +32,7 @@ Your webpage should not contain any <span style="color: #0faeb0">**personal info
 
 --- task ---
 
-Open the [mood board starter project](https://staging-editor.raspberrypi.org/en/projects/mood-board-starter){:target="_blank"}.
+Open the [mood board starter project](https://editor.raspberrypi.org/en/projects/mood-board-starter){:target="_blank"}.
 
 --- /task ---
 

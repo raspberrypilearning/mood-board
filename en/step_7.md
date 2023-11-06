@@ -40,9 +40,9 @@ Contrasting colours make the text readable for your user. You can check and adju
 --- /task ---
 
 <div>
-**Doodles upgrade**: [See inside](https://staging-editor.raspberrypi.org/en/projects/doodle-upgrade-mood-board){:target="_blank"}
+**Doodles upgrade**: [See inside](https://editor.raspberrypi.org/en/projects/doodle-upgrade-mood-board){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/doodle-upgrade-mood-board" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/doodle-upgrade-mood-board" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 

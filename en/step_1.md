@@ -24,8 +24,8 @@ One way to feel happier is to remember what is important to you. You could make 
 </div>
 <div>
 
-**Happiness**: [See inside](https://staging-editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
-<div><iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+**Happiness**: [See inside](https://editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
+<div><iframe src="https://editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 </div>
 </div>
@@ -40,19 +40,19 @@ You need to make some design decisions to create your mood board.
 
 Explore these example projects to get more ideas:
 
-**Beetle**: [See inside](https://staging-editor.raspberrypi.org/en/projects/beetle-mood-board){:target="_blank"}
+**Beetle**: [See inside](https://editor.raspberrypi.org/en/projects/beetle-mood-board){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Colours of India**: [See inside](https://staging-editor.raspberrypi.org/en/projects/travel-mood-board){:target="_blank"}
+**Colours of India**: [See inside](https://editor.raspberrypi.org/en/projects/travel-mood-board){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/travel-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/travel-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Doodles**: [See inside](https://staging-editor.raspberrypi.org/en/projects/doodle-mood-board){:target="_blank"}
+**Doodles**: [See inside](https://editor.raspberrypi.org/en/projects/doodle-mood-board){:target="_blank"}
 <div>
-<iframe src="https://staging-editor.raspberrypi.org/en/embed/viewer/doodle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/doodle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
