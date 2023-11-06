@@ -22,7 +22,7 @@ Or, you could choose an image and then select a colour palette to match.
 
 ![Examples of colour palettes from images.](images/image-palette.png)
 
-[[[trinket-image-library]]]
+[[[rpfeditor-image-library]]]
 [[[colours-from-image]]]
 
 **Notice** that `page` is typically kept white `#ffffff`, but you might decide to change it as well. 
@@ -40,8 +40,9 @@ Contrasting colours make the text readable for your user. You can check and adju
 --- /task ---
 
 <div>
-**Doodle inspiration upgrade**: [See inside](https://trinket.io/html/53045685dc){:target="_blank"}
-
-<iframe src="https://trinket.io/embed/html/53045685dc?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**Doodles upgrade**: [See inside](https://editor.raspberrypi.org/en/projects/doodle-upgrade-mood-board){:target="_blank"}
+<div>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/doodle-upgrade-mood-board" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>
 </div>
 

@@ -36,7 +36,7 @@ Don't spend too much time on the text details. A mood board just sets the mood f
 
 The starter project includes lots of images that you could use on your mood board. 
 
-[[[trinket-image-library]]]
+[[[rpfeditor-image-library]]]
 
 [[[huge-emoji]]]
 
@@ -44,7 +44,7 @@ There are lots of different emojis to choose from.
 
 [[[choose-an-emoji]]]
 
-**Tip:** It's fine to use the same image or emoji multiple times on your webpage to quickly fill your page. 
+**Tip:** It is fine to use the same image or emoji multiple times on your webpage to quickly fill your page. 
 
 --- /task ---
 
@@ -100,7 +100,5 @@ Add the `tile` class to make every element with that class the same height.
 **Test:** Have a look at your webpage. Make sure you are happy with the content on your page. 
 
 [[[image-not-displayed]]]
-
-[[[web-debug-link]]]
 
 --- /task ---

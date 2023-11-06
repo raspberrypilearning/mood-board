@@ -22,7 +22,7 @@ What is the topic of your mood board?
 + 🐠 **Inspired by animals**: Fish tank, tropical rainforest 
 + 🤖 **Character** design or world **building**
 
-Remember, you don't need to create a complete webpage. For the project, you need to make a webpage that is visually appealing and sets a mood.
+For the project, you need to make a webpage that is visually appealing and sets a mood.
 
 --- /task ---
 
@@ -32,7 +32,7 @@ Your webpage should not contain any <span style="color: #0faeb0">**personal info
 
 --- task ---
 
-Open the [mood board starter project](https://trinket.io/embed/html/bb2ee12497){:target="_blank"}.
+Open the [mood board starter project](https://editor.raspberrypi.org/en/projects/mood-board-starter){:target="_blank"}.
 
 --- /task ---
 
@@ -95,17 +95,5 @@ The starter project has matching font variables that have been set up for you. Y
 --- task ---
 
 Now that you have decided the theme for your mood board webpage, and created your colours and fonts, it is a good idea to save your project. 
-
-If you have a Trinket account, you can click on the **Remix** button to save a copy to your **My Trinkets** library.
-
-If you don’t have a Trinket account, you can still come back to your project in the future on the same computer by using the starter project link.
-
-You can also publish your saved mood board to see what it would look like as a full webpage. Each time you save your project, your published site is updated. 
-
-[[[trinket-publish-project]]]
-
-**Tip:** To make your mood board viewable by people with disabilities and appealing to a wide audience, you need to make sure it is accessible. 
-
-[[[check-accessibility]]]
 
 --- /task ---

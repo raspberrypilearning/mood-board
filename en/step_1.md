@@ -23,9 +23,10 @@ You will:
 One way to feel happier is to remember what is important to you. You could make a list of things that make you happy and then create a mood board to display them together.
 </div>
 <div>
-**Happiness**: [See inside](https://trinket.io/html/42802541b7){:target="_blank"}
 
-<iframe src="https://trinket.io/embed/html/42802541b7?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+**Happiness**: [See inside](https://editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
+<div><iframe src="https://editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
+</div>
 </div>
 </div>
 
@@ -39,19 +40,19 @@ You need to make some design decisions to create your mood board.
 
 Explore these example projects to get more ideas:
 
-**Beetle**: [See inside](https://trinket.io/html/73702c6b80){:target="_blank"}
+**Beetle**: [See inside](https://editor.raspberrypi.org/en/projects/beetle-mood-board){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/73702c6b80?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Colours of India**: [See inside](https://trinket.io/html/4fbecc95e7){:target="_blank"}
+**Colours of India**: [See inside](https://editor.raspberrypi.org/en/projects/travel-mood-board){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/4fbecc95e7?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/travel-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Doodles**: [See inside](https://trinket.io/html/8dd1f6474e){:target="_blank"}
+**Doodles**: [See inside](https://editor.raspberrypi.org/en/projects/doodle-mood-board){:target="_blank"}
 <div>
-<iframe src="https://trinket.io/embed/html/8dd1f6474e?outputOnly=true" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen></iframe>
+<iframe src="https://editor.raspberrypi.org/en/embed/viewer/doodle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
 --- /task ---
