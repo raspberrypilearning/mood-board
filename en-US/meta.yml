@@ -1,0 +1,34 @@
+title: Mood board
+hero_image: images/banner.png
+description: Create a mood board webpage for a real or imaginary project.
+version: 4
+listed: false
+copyedit: false
+last_tested: "2021-03-26"
+steps:
+  - 
+    title: Introduction
+  - 
+    title: Design your mood board
+  - 
+    title: Choose a layout for your mood board
+    completion: engaged
+  - 
+    title: Add your content
+  - 
+    title: Add style
+    completion: internal
+  - 
+    title: Reflection
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - 
+    title: Upgrade your project
+  - 
+    title: Share
+  - 
+    title: What next?
