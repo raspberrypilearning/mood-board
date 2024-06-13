@@ -1,0 +1,21 @@
+
+/* Set up colour palette and fonts using variables */
+
+:root {
+  --primary: #E54F6D;
+  --onprimary:#ffffff;
+  --secondary: #F8C630;
+  --onsecondary:#22162B;
+  --tertiary:#724E91;
+  --ontertiary: #ffffff;
+  --page:#ffffff;
+  --onpage:#724E91;
+  --detail: #a5a58d;
+  --detail2: #ec8e75;
+  
+  
+  --body-font: 1rem Verdana, sans-serif;
+  --body-font: 1rem 'Work Sans', sans-serif;
+  --header-font: 2.5rem 'Barrio', cursive;
+  --title-font: 2rem 'Work Sans', sans-serif;
+}
