@@ -1,20 +1,20 @@
-## Reflection
+## Reflectie
 
-Well done, you have practised your HTML and CSS skills and created your own mood board webpage. What an achievement!
+Goed gedaan, je hebt je HTML- en CSS-vaardigheden geoefend en je eigen moodboard-webpagina gemaakt. Wat een prestatie!
 
-Answer the three questions below to reflect on your experience.
+Beantwoord de drie onderstaande vragen om terug te kijken op wat je hebt geleerd.
 
-You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Je wordt naar het juiste antwoord geleid. Je kunt deze activiteit zo vaak doen als je wilt.
 
-Have fun!
+Veel plezier!
 
 \--- question ---
 
 ---
 
-## legend: Question 1 of 3
+## legend: Vraag 1 van 3
 
-Which option is the output of this piece of code?
+Welke optie is de uitvoer van dit stukje code?
 
 ## --- code ---
 
@@ -39,7 +39,7 @@ filename: index.html
 
 \--- feedback ---
 
-Not quite. Look closer at the classes used on each `<div>` element.
+Niet helemaal. Kijk eens goed naar de klassen die voor elk `<div>` element worden gebruikt.
 
 \--- /feedback ---
 
@@ -49,7 +49,7 @@ Not quite. Look closer at the classes used on each `<div>` element.
 
 \--- feedback ---
 
-Not quite. There is a class used that controls the size of each `<div>` element.
+Niet helemaal. Er wordt een klasse gebruikt die de grootte van elk `<div>` element bepaalt.
 
 \--- /feedback ---
 
@@ -59,7 +59,7 @@ Not quite. There is a class used that controls the size of each `<div>` element.
 
 \--- feedback ---
 
-That's right. This code creates two `<div>` elements with a dashed border. The first one is wide and the second one is narrow.
+Dat klopt. Deze code maakt twee `<div>` elementen met een stippellijn. De eerste is breed en de tweede is smal.
 
 \--- /feedback ---
 
