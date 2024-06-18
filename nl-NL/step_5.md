@@ -1,8 +1,8 @@
-## Add style
+## Voeg stijl toe
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you can style your mood board with font sizes and styles, centering, borders, gradients, transparency, or rounded corners. You don't need to add everything! Just add the features that you need to create the effect you want. 
+In deze stap kun je jouw moodboard opmaken met lettergroottes en -stijlen, centrering, randen, verlopen, transparantie of afgeronde hoeken. Je hoeft niet alles toe te voegen! Voeg gewoon de functies toe die je nodig hebt om het gewenste effect te creëren. 
 </div>
 <div>
 ![alt=""](images/step-five.PNG){:width="300px"}
@@ -11,9 +11,9 @@ In this step you can style your mood board with font sizes and styles, centering
 
 \--- task ---
 
-Use the `primary`, `secondary`, and `tertiary` classes to control the colours of each `<section>` or `<div>`.
+Gebruik de klassen `primary`, `secundary` en `tertiary` om de kleuren van elke `<section>` of `<div>` te bepalen.
 
-**Tip:** You don't have to have text in every box. You can just create a solid block of colour.
+**Tip:** Je hoeft geen tekst in elk vak te hebben. Je kunt ook gewoon een egaal kleurblok maken.
 
 [[[web-primary-secondary]]]
 
@@ -21,7 +21,7 @@ Use the `primary`, `secondary`, and `tertiary` classes to control the colours of
 
 \--- task ---
 
-You can change the size, centering, font weight, and style of text on your mood board.
+Je kunt de grootte, centrering, lettergrootte en stijl van de tekst op jouw moodboard wijzigen.
 
 [[[web-large-text-tiles]]]
 
@@ -33,9 +33,9 @@ You can change the size, centering, font weight, and style of text on your mood 
 
 \--- task ---
 
-![A strip of examples with gradients, dashed borders, and rounded corners.](images/borders-corners.png)
+![Een reeks voorbeelden met kleurverlopen, stippellijnen en afgeronde hoeken.](images/borders-corners.png)
 
-You can add rounded corners, shadows, borders, gradients, and transparency to style your `<section>` or `<div>` elements.
+Je kunt afgeronde hoeken, schaduwen, grenzen, kleurverlopen en transparantie toevoegen om je `<section>` of `<div>`elementen op te maken.
 
 [[[rounded-corners]]]
 
@@ -49,7 +49,7 @@ You can add rounded corners, shadows, borders, gradients, and transparency to st
 
 \--- task ---
 
-You may want to create additional colour variables to use in your project.
+Misschien wil je extra kleurenvariabelen maken in jouw project.
 
 [[[add-colour-variables]]]
 
@@ -57,7 +57,7 @@ You may want to create additional colour variables to use in your project.
 
 \--- task ---
 
-You may want to add your own class. This example adds a class for a photograph effect.
+Je kunt eventueel ook je eigen klasse toevoegen. Dit voorbeeld voegt een klasse toe voor een foto-effect.
 
 [[[web-add-class]]]
 
@@ -65,6 +65,6 @@ You may want to add your own class. This example adds a class for a photograph e
 
 \--- task ---
 
-**Test:** Check that you are happy with the way your mood board looks. Don't feel that you have to use lots of different effects. Remember &mdash; sometimes less is more!
+**Test:** Controleer of je tevreden bent met de manier waarop je moodboard eruit ziet. Je hoeft zeker niet alle effecten te gebruiken. Onthoud &mdash; soms is hoe simpeler hoe beter!
 
 \--- /task ---
