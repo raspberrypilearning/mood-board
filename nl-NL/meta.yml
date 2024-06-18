@@ -1,27 +1,27 @@
-title: Mood board
+title: Moodboard
 hero_image: images/banner.png
-description: Create a mood board webpage for a real or imaginary project.
-meta_title: Make your own webpage | Learn web development | Mood board
-meta_description: Make your own webpage and learn web development with the Raspberry Pi Foundation. Use HTML and CSS to create a mood board for a real or imaginary project.
+description: Maak een moodboard-webpagina voor een echt of denkbeeldig project.
+meta_title: Maak je eigen webpagina| Leer webontwikkeling | Moodboard
+meta_description: Maak je eigen webpagina en leer webontwikkeling met de Raspberry Pi Foundation. Gebruik HTML en CSS om een moodboard te maken voor een echt of denkbeeldig project.
 version: 4
 listed: true
 copyedit: true
 last_tested: "2021-03-26"
 steps:
   - 
-    title: Introduction
+    title: Inleiding
   - 
-    title: Design your mood board
+    title: Ontwerp jouw moodboard
   - 
-    title: Choose a layout for your mood board
+    title: Kies een lay-out voor je moodboard
     completion: engaged
   - 
-    title: Add your content
+    title: Voeg je inhoud toe
   - 
-    title: Add style
+    title: Voeg stijl toe
     completion: internal
   - 
-    title: Reflection
+    title: Reflectie
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: Verbeter je project
   - 
-    title: Share
+    title: Deel
   - 
-    title: What next?
+    title: Wat kun je verder nog doen?
