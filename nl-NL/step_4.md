@@ -1,8 +1,8 @@
-## Add your content
+## Voeg je inhoud toe
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will fill in your layout with content to create the mood that you want. 
+In deze stap vul je jouw lay-out in met inhoud om de gewenste sfeer te creëren. 
 </div>
 <div>
 ![alt=""](images/step-four.PNG){:width="300px"}
@@ -13,15 +13,15 @@ In this step, you will fill in your layout with content to create the mood that 
 
 ![alt=""](images/text-examples.png){:width="300px"}
 
-Add any **text** that you want to appear on your mood board.
+Voeg alle **tekst** toe die je wilt zien op je moodboard.
 
-**Choose:** Your text could be any combination of:
+**Kies:** Je tekst kan elke combinatie zijn van:
 
-- Short words or phrases that fit with your topic
-- Nonsense placeholder text ('lorem ipsum') to give an idea of what the text would look like
-- An inspirational quote
+- Korte woorden of zinnen die bij je onderwerp passen
+- Onzintekst ('lorem ipsum') om een idee te geven van hoe de tekst eruit zou zien
+- Een inspirerend citaat
 
-Don't spend too much time on the text details. A mood board just sets the mood for your project.
+Besteed niet te veel tijd aan de tekstdetails. Een moodboard bepaalt gewoon de sfeer van jouw project.
 
 [[[add-placeholder-text]]]
 
@@ -31,37 +31,37 @@ Don't spend too much time on the text details. A mood board just sets the mood f
 
 \--- task ---
 
-![Examples of images and emoji in a strip.](images/image-emoji-strip.png)
+![Voorbeelden van afbeeldingen en emoji in een overzicht.](images/image-emoji-strip.png)
 
-**Choose:** Add images and/or emojis to make your webpage look interesting.
+**Kies:** Voeg afbeeldingen en/of emojis toe om je webpagina er interessant uit te laten zien.
 
-The starter project includes lots of images that you could use on your mood board.
+Het startproject bevat veel afbeeldingen die je op je moodboard kunt gebruiken.
 
 [[[rpfeditor-image-library]]]
 
 [[[huge-emoji]]]
 
-There are lots of different emojis to choose from.
+Er zijn veel verschillende emoji's om uit te kiezen.
 
 [[[choose-an-emoji]]]
 
-**Tip:** It is fine to use the same image or emoji multiple times on your webpage to quickly fill your page.
+**Tip:** Het is prima om meerdere keren dezelfde afbeelding of emoji op je webpagina te gebruiken om snel je pagina te vullen.
 
 \--- /task ---
 
 \--- task ---
 
-**Debug:**
+**Fouten oplossen:**
 
 ## --- collapse ---
 
-## title: My content has different heights and it looks odd
+## title: Mijn inhoud heeft verschillende hoogtes en ziet er vreemd uit
 
-When you add content that has different heights, the boxes around them will be different heights.
+Wanneer je inhoud met verschillende hoogtes toevoegt, hebben de vakken eromheen ook verschillende hoogtes.
 
 ![alt=""](images/different-heights.png)
 
-You can change this by adding in the `tile` class:
+Je kunt dit veranderen door de klasse `tile` toe te voegen:
 
 ## --- code ---
 
@@ -74,7 +74,7 @@ line_numbers: false
 <div class="tile">
 --- /code ---
 
-`tile` sets a specific height for each of the elements that have this class. To adjust the height, change it in the `style.css` file.
+`tile` stelt een specifieke hoogte in voor elk van de elementen die deze klasse hebben. Om de hoogte aan te passen, verander je deze in het `style.css` bestand.
 
 ## --- code ---
 
@@ -89,7 +89,7 @@ height: 9.4rem;
 }
 \--- /code ---
 
-Add the `tile` class to make every element with that class the same height.
+Voeg de klasse `tile` toe om elk element met die klasse dezelfde hoogte te geven.
 
 ![alt=""](images/same-height.png)
 
@@ -99,7 +99,7 @@ Add the `tile` class to make every element with that class the same height.
 
 \--- task ---
 
-**Test:** Have a look at your webpage. Make sure you are happy with the content on your page.
+**Test:** Bekijk jouw webpagina. Zorg ervoor dat je tevreden bent met de inhoud op je pagina.
 
 [[[image-not-displayed]]]
 
