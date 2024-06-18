@@ -2,9 +2,9 @@
 
 ---
 
-## legend: Question 2 of 3
+## legend: Vraag 2 van 3
 
-You have been given some options for background and text colours to use in a project. Which one should you choose to ensure that the colours have a high contrast?
+Je hebt enkele opties gekregen voor achtergrond- en tekstkleuren om te gebruiken in een project. Welke moet je kiezen om ervoor te zorgen dat de kleuren een hoog contrast hebben?
 
 \--- choices ---
 
@@ -12,7 +12,7 @@ You have been given some options for background and text colours to use in a pro
 
   \--- feedback ---
 
-  Yes, that's correct. The background and text colours have high contrast so that the text is easy to read. This is important for everybody but it's even more important for visually impaired users of the web.
+  Ja, dat is goed. De achtergrond- en tekstkleuren hebben een hoog contrast, zodat de tekst goed leesbaar is. Dit is belangrijk voor iedereen, maar nog belangrijker voor slechtziende gebruikers van het web.
 
   \--- /feedback ---
 
@@ -20,7 +20,7 @@ You have been given some options for background and text colours to use in a pro
 
   \--- feedback ---
 
-  Not quite. The background and text colours don't have enough contrast, which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough.
+  Niet helemaal. De achtergrond- en tekstkleuren hebben onvoldoende contrast, waardoor de tekst moeilijker leesbaar is. Je zou een contrast checker kunnen gebruiken om de kleuren aan te passen totdat het contrast hoog genoeg is.
 
   \--- /feedback ---
 
@@ -28,7 +28,7 @@ You have been given some options for background and text colours to use in a pro
 
   \--- feedback ---
 
-  Not quite. The background and text colours don't have enough contrast, which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough.
+  Niet helemaal. De achtergrond- en tekstkleuren hebben onvoldoende contrast, waardoor de tekst moeilijker leesbaar is. Je zou een contrast checker kunnen gebruiken om de kleuren aan te passen totdat het contrast hoog genoeg is.
 
   \--- /feedback ---
 
