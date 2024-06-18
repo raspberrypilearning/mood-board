@@ -1,6 +1,6 @@
-## What next?
+## Wat kun je verder nog doen?
 
-If you are following the [Intro to web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) path, you should move on to the [Sell me something](https://projects.raspberrypi.org/en/projects/sell-me-something) project. In this project, you will make a webpage to promote a product or idea.
+Als je het pad [Inleiding tot web](https://projects.raspberrypi.org/en/raspberrypi/web-intro) volgt, kun je doorgaan naar het [Verkoop iets aan mij](https://projects.raspberrypi.org/en/projects/sell-me-something)-project. In dit project maak je een webpagina om een product of idee te promoten.
 
 \--- print-only ---
 
@@ -11,7 +11,7 @@ If you are following the [Intro to web](https://projects.raspberrypi.org/en/rasp
 \--- no-print ---
 
 <div>
-**Skateboarding**: [See inside](https://editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
+**Skateboarden**: [Bekijk van binnen](https://editor.raspberrypi.org/en/projects/skateboarding){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/skateboarding" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div></div>
