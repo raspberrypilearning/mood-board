@@ -1,15 +1,15 @@
-## Share
+## Deel
 
-If you are in a club, why not share your project with friends? You could also show your family how your project works.
+Als je lid bent van een club, waarom zou je je project dan niet delen met vrienden? Je kunt jouw familie ook laten zien hoe jouw project werkt.
 
 \--- task ---
 
-**Show** your mood board to someone and ask them to describe how it makes them feel. Does what they say match the mood you were trying to create?
+**Toon** je moodboard aan iemand en vraag hem om te beschrijven hoe hij of zij zich voelt. Komt wat ze zeggen overeen met de sfeer die je probeerde te creëren?
 
 \--- /task ---
 
 \--- task ---
 
-Why not invite your friends to create a project? Let them know how you had fun.
+Waarom nodig je je vrienden niet uit om een project te maken? Laat ze weten hoeveel plezier je hebt gehad.
 
 \--- /task ---
