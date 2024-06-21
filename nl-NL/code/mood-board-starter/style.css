@@ -87,10 +87,10 @@ section {
 }
 
 .border-top {
-  border-top: 10px solid var(--detail2); /* Add a solid line above the footer */
+  border-top: 10px solid var(--detail2); /* Voeg een ononderbroken lijn toe boven de voettekst */
 }
 
-/* Add a transparent effect */
+/* Voeg een transparant effect toe */
 
 .transparent {
   opacity: 0.95;
