@@ -1,47 +1,47 @@
-## Upgrade your project
+## Améliorer ton projet
 
-If you have time, you could add more to your mood board or improve the design.
+Si tu as le temps, tu pourrais en ajouter d'autres à ton tableau d'humeur ou améliorer le design.
 
 \--- task ---
 
-You could:
+Tu pourrais :
 
-- Replace 'lorem ipsum' placeholder text with text that helps to set the mood
-- Add more images or emojis
-- Add more sections of content
-- Add really helpful image `alt` text that would help set the mood for a person using a screen reader
-- Experiment with different border, gradient, or transparency effects
-- Create a different mood board using different techniques and styles
+- Remplacer le texte d'espace réservé « lorem ipsum » par un texte qui contribue à créer l'ambiance
+- Ajouter plus d'images ou d'emojis
+- Ajouter plus de sections de contenu
+- Ajouter un texte d'image `alt` très utile qui aiderait à créer l'ambiance pour une personne utilisant un lecteur d'écran
+- Expérimenter différents effets de bordure, de dégradé ou de transparence
+- Créer un tableau d'humeur différent en utilisant différentes techniques et styles
 
-You could also:
+Tu pourrais aussi :
 
-- Adjust the colour palette
+- Ajouter une palette de couleur
 
 [[[web-colour-palette]]]
 
-Or, you could choose an image and then select a colour palette to match.
+Ou bien, tu peux choisir une image et sélectionner ensuite une palette de couleurs qui lui correspond.
 
-![Examples of colour palettes from images.](images/image-palette.png)
+![Exemples de palettes de couleurs à partir d'images.](images/image-palette.png)
 
 [[[rpfeditor-image-library]]]
 [[[colours-from-image]]]
 
-**Notice** that `page` is typically kept white `#ffffff`, but you might decide to change it as well.
+**Note** que `page` est généralement gardé en blanc `#ffff`, mais tu peux décider de le changer aussi.
 
-- Check that you colour palette uses contrasting colours
+- Vérifie que ta palette de couleurs utilise des couleurs contrastées
 
-Contrasting colours make the text readable for your user. You can check and adjust your colours using a [contrast checker](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
+Les couleurs contrastées rendent le texte lisible pour ton utilisateur. Tu peux vérifier et ajuster tes couleurs à l'aide d'un [vérificateur de contraste](https://webaim.org/resources/contrastchecker/){:target="_blank"}.
 
 ![alt=""](images/contrast-examples.png)
 
 [[[contrast-checker]]]
 
-**Tip:** If you find it difficult to find contrasting colours, black works well on light backgrounds and white works well on dark backgrounds.
+**Astuce :** si tu as du mal à trouver des couleurs contrastées, le noir fonctionne bien sur les arrière-plans clairs et le blanc sur les arrière-plans foncés.
 
 \--- /task ---
 
 <div>
-**Doodles upgrade**: [See inside](https://editor.raspberrypi.org/en/projects/doodle-upgrade-mood-board){:target="_blank"}
+**Amélioration des Doodles** : [Voir à l'interieur](https://editor.raspberrypi.org/fr-FR/projects/doodle-upgrade-mood-board){:target="_blank"}
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/doodle-upgrade-mood-board" width="800" height="600" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
