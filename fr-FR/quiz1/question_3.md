@@ -2,41 +2,41 @@
 
 ---
 
-## legend: Question 3 of 3
+## legend: Question 3 sur 3
 
-The `rounded` class sets the `border-radius` of an element. Which HTML elements can you use the `rounded` class with?
+La classe `rounded` définit le `border-radius` d'un élément. Avec quels éléments HTML peux-tu utiliser la classe `rounded` ?
 
 \--- choices ---
 
-- ( ) `<section>` element
+- ( ) L'élément `<section>`
 
   \--- feedback ---
 
-  Not quite. You can use the `rounded` class on `<section>` elements to create a section with rounded corners, but that's not all.
+  Pas tout à fait. Tu peux utiliser la classe `rounded` sur les éléments `<section>` pour créer une section aux coins arrondis, mais ce n'est pas tout.
 
   \--- /feedback ---
 
-- ( ) `<div>` elements
+- ( ) Les éléments `<div>`
 
   \--- feedback ---
 
-  Not quite. You can use the `rounded` class on `<div>` elements to add rounded corners, but that's not all.
+  Pas tout à fait. Tu peux utiliser la classe `rounded` sur les éléments `<div>` pour ajouter des coins arrondis, mais ce n'est pas tout.
 
   \--- /feedback ---
 
-- ( ) `<img>` elements
+- ( ) Les éléments `<img>`
 
   \--- feedback ---
 
-  Not quite. You can use the `rounded` class on `<img>` elements to create an image with rounded corners, but that's not all.
+  Pas tout à fait. Tu peux utiliser la classe `rounded` sur les éléments `<img>` pour créer une image aux coins arrondis, mais ce n'est pas tout.
 
   \--- /feedback ---
 
-- (x) All of the above
+- (x) Tout ce qui précède
 
   \--- feedback ---
 
-  Yes, that's correct. You can use the `rounded` class to set the `border-radius` on sections, images, and some other elements too. If you didn't use rounded corners in this project, you can try to use them in the next project.
+  Oui, c'est correct. Tu peux utiliser la classe `rounded` pour définir le `border-radius` sur les sections, les images et certains autres éléments également. Si tu n'as pas utilisé les coins arrondis dans ce projet, tu peux essayer de les utiliser dans le prochain projet.
 
   \--- /feedback ---
 
