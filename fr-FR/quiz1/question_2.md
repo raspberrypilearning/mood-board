@@ -2,9 +2,9 @@
 
 ---
 
-## legend: Question 2 of 3
+## legend: Question 2 sur 3
 
-You have been given some options for background and text colours to use in a project. Which one should you choose to ensure that the colours have a high contrast?
+On t'a donné quelques options de couleurs d'arrière-plan et de texte à utiliser dans un projet. Laquelle dois-tu choisir pour que les couleurs soient bien contrastées ?
 
 \--- choices ---
 
@@ -12,7 +12,7 @@ You have been given some options for background and text colours to use in a pro
 
   \--- feedback ---
 
-  Yes, that's correct. The background and text colours have high contrast so that the text is easy to read. This is important for everybody but it's even more important for visually impaired users of the web.
+  Oui, c'est correct. Les couleurs de l'arrière-plan et du texte sont très contrastées pour que le texte soit facile à lire. C'est important pour tout le monde, mais ça l'est encore plus pour les utilisateurs malvoyants du web.
 
   \--- /feedback ---
 
@@ -20,7 +20,7 @@ You have been given some options for background and text colours to use in a pro
 
   \--- feedback ---
 
-  Not quite. The background and text colours don't have enough contrast, which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough.
+  Pas tout à fait. Les couleurs de l'arrière-plan et du texte ne sont pas assez contrastées, ce qui rend le texte plus difficile à lire. Tu pourrais utiliser un vérificateur de contraste pour ajuster les couleurs jusqu'à ce que le contraste soit suffisamment élevé.
 
   \--- /feedback ---
 
@@ -28,7 +28,7 @@ You have been given some options for background and text colours to use in a pro
 
   \--- feedback ---
 
-  Not quite. The background and text colours don't have enough contrast, which makes the text harder to read. You could use a contrast checker to adjust the colours until the contrast is high enough.
+  Pas tout à fait. Les couleurs de l'arrière-plan et du texte ne sont pas assez contrastées, ce qui rend le texte plus difficile à lire. Tu pourrais utiliser un vérificateur de contraste pour ajuster les couleurs jusqu'à ce que le contraste soit suffisamment élevé.
 
   \--- /feedback ---
 
