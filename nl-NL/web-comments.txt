@@ -1,12 +1,12 @@
-Title shown in web browsers
+Titel die in webbrowsers wordt weergegeven
 
-Import fonts from Google
+Importeer lettertypen van Google
 
-Include CSS style file
+Voeg een CSS-stijlbestand toe
 
-The page header code goes here
+De paginakoptekstcode komt hier terecht
 
-The main content for the web page goes between the main tags
+De hoofdinhoud van de webpagina bevindt zich tussen de main tags
 
 The sub heading section
 
@@ -14,7 +14,7 @@ Three tiles, one image and two text
 
 Text on the left with an emoji on the right
 
-Footer code goes here
+Voettekst code komt hier
 
 Three images that wrap, rounded and shadow are applied
 
