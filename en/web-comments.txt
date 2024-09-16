@@ -1,0 +1,31 @@
+Title shown in web browsers
+
+Import fonts from Google
+
+Include CSS style file
+
+The page header code goes here
+
+The main content for the web page goes between the main tags
+
+The sub heading section
+
+Three tiles, one image and two text
+
+Text on the left with an emoji on the right
+
+Footer code goes here
+
+Three images that wrap, rounded and shadow are applied
+
+Three tiles that wrap. They are all equal size with text in the center and a border
+
+Introduction
+
+A block quote with an emoji
+
+Three tiled images with rounded corners
+
+Three huge emojis, the hover action has been applied at the bottom of the style.css file
+
+Three photographs using the photo class. The hover action has also been applied at the bottom of the style.css file
