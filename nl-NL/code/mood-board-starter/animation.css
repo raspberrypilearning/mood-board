@@ -1,5 +1,5 @@
 .spinme {
-  animation: roteren-center lineair 8s 2; /* voert de 'rotate-center'-animatie uit met lineaire timing (helemaal hetzelfde tempo) gedurende acht seconden. Voert de animatie twee keer uit. */
+  animation: rotate-center linear 8s 2; /* voert de 'rotate-center'-animatie uit met lineaire timing (helemaal hetzelfde tempo) gedurende acht seconden. Voert de animatie twee keer uit. */
   display: inline-block; /* Belangrijk zodat het geanimeerde element niet wordt gesplitst naar een nieuwe regel */
 }
 
