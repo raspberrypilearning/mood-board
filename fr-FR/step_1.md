@@ -1,32 +1,32 @@
 ## Introduction
 
-In this project, you will create a mood board webpage for a real or imaginary project. You could make a mood board to redesign your bedroom or to represent a fashion item, party, or website. Alternatively, your mood board could be a reminder of all the things that make you happy.
+Dans ce projet, tu créeras une page web de tableau d'humeur pour un projet réel ou imaginaire. Tu peux faire un tableau d'humeur pour réaménager ta chambre à coucher ou pour représenter un article de mode, une fête ou un site Internet. Ton tableau d'humeur peut aussi être un rappel de toutes les choses qui te rendent heureux.
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-A <span style="color: #0faeb0">**mood board**</span> is a collage that arranges images, fonts, colours, and other design elements to create a look or style for a project. Mood boards can be used to create brand designs, product designs, and lots of other types of design projects.
+Un <span style="color: #0faeb0">**tableau d'humeur**</span> est un collage dans lequel des images, des polices, des couleurs et d'autres éléments de conception sont disposés pour créer un look ou un style pour un projet. Les tableaux d'humeur peuvent être utilisés pour créer des marques, des conceptions de produits et de nombreux autres types de projets de conception.
 </p>
 
-You will:
+Tu vas :
 
-- Have multiple sections with different layouts in your webpage
-- Use different colours and fonts that work well together
-- Use images, emojis, or both
+- Avoir plusieurs sections avec des mises en page différentes dans ta page web
+- Utiliser différentes couleurs et polices qui fonctionnent bien ensemble
+- Utiliser des images, des emojis ou les deux
 
-![A line of images from example projects. The projects have different colours, fonts, and layouts.](images/example-strip.png)
+![Une ligne d'images d'exemples de projets. Les projets ont des couleurs, des polices et des mises en page différentes.](images/example-strip.png)
 
 \--- no-print ---
 
 \--- task ---
 
-### Try it
+### Essaie-le
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 175px; flex-grow: 1">  
-One way to feel happier is to remember what is important to you. You could make a list of things that make you happy and then create a mood board to display them together.
+Une façon de se sentir plus heureux est de se rappeler ce qui est important pour toi. Tu pourrais dresser une liste des choses qui te rendent heureux, puis créer un tableau d'humeur pour les afficher ensemble.
 </div>
 <div>
 
-**Happiness**: [See inside](https://editor.raspberrypi.org/en/projects/happiness-mood-board){:target="_blank"}
+**Bonheur** : [Voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/happiness-mood-board){:target="_blank"}
 
 <div><iframe src="https://editor.raspberrypi.org/en/embed/viewer/happiness-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
@@ -35,27 +35,27 @@ One way to feel happier is to remember what is important to you. You could make 
 
 \--- /task ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-You need to make some design decisions to create your mood board.
+Tu vas prendre des décisions de conception pour créer ton tableau d'humeur.
 
 \--- task ---
 
-Explore these example projects to get more ideas:
+Explore ces exemples de projets pour obtenir plus d'idées :
 
-**Beetle**: [See inside](https://editor.raspberrypi.org/en/projects/beetle-mood-board){:target="_blank"}
+**Scarabée** : [Voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/beetle-mood-board){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/beetle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Colours of India**: [See inside](https://editor.raspberrypi.org/en/projects/travel-mood-board){:target="_blank"}
+**Couleurs de l'Inde** : [Voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/travel-mood-board){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/travel-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
 </div>
 
-**Doodles**: [See inside](https://editor.raspberrypi.org/en/projects/doodle-mood-board){:target="_blank"}
+**Doodles** : [Voir à l'intérieur](https://editor.raspberrypi.org/fr-FR/projects/doodle-mood-board){:target="_blank"}
 
 <div>
 <iframe src="https://editor.raspberrypi.org/en/embed/viewer/doodle-mood-board" width="600" height="500" frameborder="0" marginwidth="0" marginheight="0" allowfullscreen> </iframe>
@@ -66,17 +66,17 @@ Explore these example projects to get more ideas:
 
 \--- print-only ---
 
-### Get inspiration
+### Trouve l'inspiration
 
-**Happiness**
+**Bonheur**
 
 ![](images/happiness.png)
 
-**Colours of India**
+**Couleurs de l'Inde**
 
 ![](images/india.PNG)
 
-**Beetle**
+**Scarabée**
 
 ![](images/beetle.PNG)
 
