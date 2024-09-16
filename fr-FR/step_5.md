@@ -1,8 +1,8 @@
-## Add style
+## Ajouter un style
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step you can style your mood board with font sizes and styles, centering, borders, gradients, transparency, or rounded corners. You don't need to add everything! Just add the features that you need to create the effect you want. 
+Dans cette étape, tu peux styliser ton tableau d'humeur avec des tailles et des styles de police, un centrage, des bordures, des dégradés, de la transparence ou des coins arrondis. Tu n'as pas besoin de tout ajouter ! Il suffit d'ajouter les caractéristiques dont tu as besoin pour créer l'effet que tu souhaites. 
 </div>
 <div>
 ![alt=""](images/step-five.PNG){:width="300px"}
@@ -11,9 +11,9 @@ In this step you can style your mood board with font sizes and styles, centering
 
 \--- task ---
 
-Use the `primary`, `secondary`, and `tertiary` classes to control the colours of each `<section>` or `<div>`.
+Utilise les classes `primary`, `secondary` et `tertiary` pour contrôler les couleurs de chaque `<section>` ou `<div>`.
 
-**Tip:** You don't have to have text in every box. You can just create a solid block of colour.
+**Astuce :** tu n'es pas obligé d'avoir du texte dans chaque case. Tu peux simplement créer un bloc de couleur uni.
 
 [[[web-primary-secondary]]]
 
@@ -21,7 +21,7 @@ Use the `primary`, `secondary`, and `tertiary` classes to control the colours of
 
 \--- task ---
 
-You can change the size, centering, font weight, and style of text on your mood board.
+Tu peux modifier la taille, le centrage, l’épaisseur de la police et le style du texte sur ton tableau d'humeur.
 
 [[[web-large-text-tiles]]]
 
@@ -33,9 +33,9 @@ You can change the size, centering, font weight, and style of text on your mood 
 
 \--- task ---
 
-![A strip of examples with gradients, dashed borders, and rounded corners.](images/borders-corners.png)
+![Une bande d'exemples avec des dégradés, des bordures en pointillés et des coins arrondis.](images/borders-corners.png)
 
-You can add rounded corners, shadows, borders, gradients, and transparency to style your `<section>` or `<div>` elements.
+Tu peux ajouter des coins arrondis, des ombres, des bordures, des dégradés et de la transparence pour styliser tes éléments `<section>` ou `<div>`.
 
 [[[rounded-corners]]]
 
@@ -49,7 +49,7 @@ You can add rounded corners, shadows, borders, gradients, and transparency to st
 
 \--- task ---
 
-You may want to create additional colour variables to use in your project.
+Il se peut que tu veuilles créer des variables de couleur supplémentaires à utiliser dans ton projet.
 
 [[[add-colour-variables]]]
 
@@ -57,7 +57,7 @@ You may want to create additional colour variables to use in your project.
 
 \--- task ---
 
-You may want to add your own class. This example adds a class for a photograph effect.
+Tu peux ajouter ta propre classe. Cet exemple ajoute une classe pour un effet photographique.
 
 [[[web-add-class]]]
 
@@ -65,6 +65,6 @@ You may want to add your own class. This example adds a class for a photograph e
 
 \--- task ---
 
-**Test:** Check that you are happy with the way your mood board looks. Don't feel that you have to use lots of different effects. Remember &mdash; sometimes less is more!
+**Test :** vérifie que tu es satisfait de l'aspect de ton tableau d'humeur. Ne te sens pas obligé d'utiliser plein d'effets différents. N'oublie pas que &mdash; parfois, moins c'est plus !
 
 \--- /task ---
