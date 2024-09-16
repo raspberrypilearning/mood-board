@@ -8,7 +8,7 @@ On t'a donné quelques options de couleurs d'arrière-plan et de texte à utilis
 
 \--- choices ---
 
-- (x) ![A dark blue background with white text.](images/contrast-a.PNG)
+- (x) ![Un fond bleu foncé avec du texte blanc.](images/contrast-a.PNG)
 
   \--- feedback ---
 
@@ -16,7 +16,7 @@ On t'a donné quelques options de couleurs d'arrière-plan et de texte à utilis
 
   \--- /feedback ---
 
-- ( ) ![A pale blue background with pale purple text.](images/contrast-b.PNG)
+- ( ) ![Un fond bleu pâle avec du texte violet pâle.](images/contrast-b.PNG)
 
   \--- feedback ---
 
@@ -24,7 +24,7 @@ On t'a donné quelques options de couleurs d'arrière-plan et de texte à utilis
 
   \--- /feedback ---
 
-- ( ) ![A medium grey background with pale purple text.](images/contrast-c.PNG)
+- ( ) ![Un fond gris moyen avec du texte violet pâle.](images/contrast-c.PNG)
 
   \--- feedback ---
 
