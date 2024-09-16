@@ -1,68 +1,68 @@
-## Design your mood board
+## Concevoir ton tableau d'humeur
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will decide on a topic for your mood board and choose a matching colour palette and fonts. You will also need to check that your palette has good colour contrast so that it is accessible. 
+Dans cette étape, tu décideras d'un sujet pour ton tableau d'humeur et tu choisiras une palette de couleurs et des polices de caractères assorties. Tu devras également vérifier que ta palette présente un bon contraste de couleurs afin qu'elle soit accessible. 
 </div>
 <div>
-![A summer party webpage.](images/step-two.PNG){:width="300px"}
+![Une page web de fête d'été.](images/step-two.PNG){:width="300px"}
 </div>
 </div>
 
 \--- task ---
 
-What is the topic of your mood board?
+Quel est le sujet de ton tableau d'humeur ?
 
-- 🎉 **Party**: For a specific occasion or theme
-- 🎨 **Artwork**: Book cover, poster, flyer, comic book
-- 🥤 **Logo** or **product** design
-- 🛏️ **Decorate a space**: Classroom, maker space, cafe
-- 🥻 **Fashion design**: Glasses frames, sari, bag
-- 🌳 **Inspired by nature**: Terrarium, outside space
-- 🐠 **Inspired by animals**: Fish tank, tropical rainforest
-- 🤖 **Character** design or world **building**
+- 🎉 **Fête** : pour une occasion ou un thème spécifique
+- 🎨 **Oeuvre** : couverture de livre, affiche, flyer, bande dessinée
+- 🥤 Conception de **Logo** ou **produit**
+- 🛏️ **Décorer un espace** : salle de classe, maker space, café
+- 🥻 **Design de mode** : montures de lunettes, sari, sac
+- 🌳 **Inspiré de la nature** : terrarium, espace extérieur
+- 🐠 **Inspiré des animaux** : aquarium, forêt tropicale humide
+- 🤖 **Conception de personnages** ou **construction de monde**
 
-For the project, you need to make a webpage that is visually appealing and sets a mood.
-
-\--- /task ---
-
-<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-Your webpage should not contain any <span style="color: #0faeb0">**personal information**</span> that can reveal your identity and/or location. Be very careful about who you share personal information with.  
-</p>
-
-\--- task ---
-
-Open the [mood board starter project](https://editor.raspberrypi.org/en/projects/mood-board-starter){:target="_blank"}.
-
-\--- /task ---
-
-\--- task ---
-
-Change the `<title>` element text to the title of your page. For example `Summer party`.
-
-\--- /task ---
-
-\--- task ---
-
-Change the `<h1>` heading of your mood board to match your topic. You can use the same text that you used for your `<title>`.
+Pour ce projet, tu dois réaliser une page web qui soit visuellement attrayante et qui mette de l'ambiance.
 
 \--- /task ---
 
 <p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
-<span style="color: #0faeb0">**Graphic designers, interior designers, industrial designers, photographers, user interface designers, and other creative artists**</span> use mood boards to visually illustrate the style they wish to pursue. Amateur and professional designers may use mood boards as an aid for more subjective purposes, such as how they want to decorate their bedroom or the vibe they want to convey through their fashion.
+Ta page web ne doit pas contenir d'informations <span style="color: #0faeb0">**personnelles**</span> pouvant révéler ton identité et/ou ta localisation. Fais très attention aux personnes avec lesquelles tu partages tes informations personnelles.  
 </p>
 
-Your mood board will use a colour palette so that it looks appealing with colours that work well together.
+\--- task ---
+
+Ouvrir le [projet de démarrage tableau d'humeur](https://editor.raspberrypi.org/fr-FR/projects/mood-board-starter){:target="_blank"}.
+
+\--- /task ---
+
+\--- task ---
+
+Remplace le texte de l'élément `<title>` par le titre de ta page. Par exemple « Fête d'été ».
+
+\--- /task ---
+
+\--- task ---
+
+Modifie le titre `<h1>` de ton tableau d'humeur pour qu'il corresponde à ton sujet. Tu peux utiliser le même texte que celui que tu as utilisé pour ton `<title>`.
+
+\--- /task ---
+
+<p style="border-left: solid; border-width:10px; border-color: #0faeb0; background-color: aliceblue; padding: 10px;">
+<span style="color: #0faeb0">**Les graphistes, les architectes d'intérieur, les designers industriels, les photographes, les concepteurs d'interface utilisateur et d'autres artistes créatifs**</span> utilisent des tableaux d'humeur pour illustrer visuellement le style qu'ils souhaitent poursuivre. Les designers amateurs et professionnels peuvent utiliser les tableaux d'humeur comme une aide à des fins plus subjectives, comme la façon dont ils veulent décorer leur chambre à coucher.
+</p>
+
+Ton tableau d'humeur utilisera une palette de couleurs pour qu'il soit attrayant avec des couleurs qui fonctionnent bien ensemble.
 
 [[[web-colour-palette-variables]]]
 
 \--- task ---
 
-**Choose:** Set the colour palette for your mood board.
+**Choisir :** définis la palette de couleurs de ton tableau d'humeur.
 
-Choose one of the 20 included colour palettes.
+Choisis l'une des 20 palettes de couleurs incluses.
 
-![Examples of colour palettes in strips.](images/palette-examples.png)
+![Exemples de palettes de couleurs.](images/palette-examples.png)
 
 [[[hex-colour-palettes]]]
 
@@ -70,15 +70,15 @@ Choose one of the 20 included colour palettes.
 
 \--- task ---
 
-**Test:** Check that your webpage uses your new colour palette.
+**Test :** vérifie que ta page web utilise ta nouvelle palette de couleurs.
 
 \--- /task ---
 
 \--- task ---
 
-![Examples of fonts in strips.](images/font-examples.png)
+![Exemples de polices.](images/font-examples.png)
 
-The starter project has matching font variables that have been set up for you. You can change the fonts used in these variables if you want to use a different style.
+Le projet de départ comporte des variables de police correspondantes qui ont été configurées pour toi. Tu peux changer les polices utilisées dans ces variables si tu veux utiliser un style différent.
 
 [[[included-fonts]]]
 [[[web-fonts]]]
@@ -88,12 +88,12 @@ The starter project has matching font variables that have been set up for you. Y
 
 \--- task ---
 
-**Test:** Check that your webpage uses your new fonts, if you have added them.
+**Test :** vérifie que ta page web utilise tes nouvelles polices, si tu les as ajoutées.
 
 \--- /task ---
 
 \--- task ---
 
-Now that you have decided the theme for your mood board webpage, and created your colours and fonts, it is a good idea to save your project.
+Maintenant que tu as décidé du thème de la page web de ton tableau d'humeur, et que tu as créé tes couleurs et tes polices, il est conseillé d'enregistrer ton projet.
 
 \--- /task ---
