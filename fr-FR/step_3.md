@@ -1,27 +1,27 @@
-## Choose a layout for your mood board
+## Choisir une mise en page pour ton tableau d'humeur
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will design the overall layout of your mood board and add content sections with placeholder content. 
+Dans cette étape, tu vas concevoir la disposition générale de ton tableau d'humeur et ajouter des sections de contenu avec des espaces réservés.
 </div>
 <div>
-![A vibrant webpage that is blue, yellow, and red. The webpage has sample text and two rows of tiles.](images/step-three.PNG){:width="300px"}
+![Une page web dynamique bleue, jaune et rouge. La page web présente un exemple de texte et deux rangées de vignettes.](images/step-three.PNG){:width="300px"}
 </div>
 </div>
 
 \--- task ---
 
-You will create several sections of content for your mood board and can use a combination of text, images, or emojis.
+Tu créeras plusieurs sections de contenu pour ton tableau d'humeur et tu pourras utiliser une combinaison de texte, d'images ou d'emojis.
 
-Think about the sections you want to add. You could sketch your layout on paper if you prefer.
+Pense aux sections que tu souhaites ajouter. Tu peux dessiner ta mise en page sur papier si tu préfères.
 
 \--- /task ---
 
 \--- task ---
 
-![A strip of three images to show different sets of three sections and different colour palettes.](images/example-layouts.png)
+![Une bande de trois images pour montrer différents ensembles de trois sections et différentes palettes de couleurs.](images/example-layouts.png)
 
-Add at least three sections to `<main></main>` in your mood board. You can add more if you like.
+Ajoute au moins trois sections à `<main></main>` dans ton tableau d'humeur. Tu pourras ajouter plus de détails ultérieurement.
 
 [[[full-width-section]]]
 
@@ -43,9 +43,9 @@ Add at least three sections to `<main></main>` in your mood board. You can add m
 
 \--- task ---
 
-**Test:** Check that you are happy with the layout of the page. Don't worry about the actual content or images yet. You will add those in the next step.
+**Test :** vérifie que tu es satisfait de la mise en page de la page. Ne te préoccupe pas encore du contenu ou des images. Tu les ajouteras à l'étape suivante.
 
-**My webpage isn't displaying correctly**
+**Ma page web ne s'affiche pas correctement**
 
 [[[incorrect-tags]]]
 
