@@ -8,24 +8,24 @@ De paginakoptekstcode komt hier terecht
 
 De hoofdinhoud van de webpagina bevindt zich tussen de main tags
 
-The sub heading section
+Het subkopgedeelte
 
-Three tiles, one image and two text
+Drie tegels, één afbeelding en twee teksten
 
-Text on the left with an emoji on the right
+Tekst links met een emoji aan de rechterkant
 
 Voettekst code komt hier
 
-Three images that wrap, rounded and shadow are applied
+Drie afbeeldingen die overlappen, afgerond zijn en waarop schaduw is toegepast
 
-Three tiles that wrap. They are all equal size with text in the center and a border
+Drie tegels die overlappen. Ze zijn allemaal even groot met tekst in het midden en een rand
 
 Inleiding
 
-A block quote with an emoji
+Een blokcitaat met een emoji
 
-Three tiled images with rounded corners
+Drie tegels met afbeeldingen met afgeronde hoeken
 
-Three huge emojis, the hover action has been applied at the bottom of the style.css file
+Drie heel grote emoji's, de hover-actie is onderaan het style.css-bestand toegepast
 
-Three photographs using the photo class. The hover action has also been applied at the bottom of the style.css file
+Drie foto's die de fotoklasse gebruiken. De hover-actie is ook onderaan het style.css-bestand toegepast
