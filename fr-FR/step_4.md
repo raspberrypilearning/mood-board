@@ -1,8 +1,8 @@
-## Add your content
+## Ajouter ton contenu
 
 <div style="display: flex; flex-wrap: wrap">
 <div style="flex-basis: 200px; flex-grow: 1; margin-right: 15px;">
-In this step, you will fill in your layout with content to create the mood that you want. 
+Dans cette étape, tu rempliras ta mise en page avec du contenu pour créer l'ambiance que tu souhaites.
 </div>
 <div>
 ![alt=""](images/step-four.PNG){:width="300px"}
@@ -13,15 +13,15 @@ In this step, you will fill in your layout with content to create the mood that 
 
 ![alt=""](images/text-examples.png){:width="300px"}
 
-Add any **text** that you want to appear on your mood board.
+Ajoute n'importe quel **texte** que tu souhaites voir apparaître sur ton tableau d'humeur.
 
-**Choose:** Your text could be any combination of:
+**Choisir :** ton texte peut être une combinaison de :
 
-- Short words or phrases that fit with your topic
-- Nonsense placeholder text ('lorem ipsum') to give an idea of what the text would look like
-- An inspirational quote
+- Mots ou de phrases courtes qui correspondent à ton sujet
+- Texte d'espace réservé absurde (« lorem ipsum ») pour donner une idée de ce à quoi ressemblerait le texte
+- Citations inspirantes
 
-Don't spend too much time on the text details. A mood board just sets the mood for your project.
+Ne passe pas trop de temps sur les détails du texte. Un tableau d'humeur permet simplement de donner le ton à ton projet.
 
 [[[add-placeholder-text]]]
 
@@ -31,37 +31,37 @@ Don't spend too much time on the text details. A mood board just sets the mood f
 
 \--- task ---
 
-![Examples of images and emoji in a strip.](images/image-emoji-strip.png)
+![Exemples d'images et d'emoji dans une bande.](images/image-emoji-strip.png)
 
-**Choose:** Add images and/or emojis to make your webpage look interesting.
+**Choisir :** ajoute des images et/ou des emojis pour rendre ta page web intéressante.
 
-The starter project includes lots of images that you could use on your mood board.
+Le projet de démarrage comprend de nombreuses images que tu pourras utiliser sur ton tableau d'humeur.
 
 [[[rpfeditor-image-library]]]
 
 [[[huge-emoji]]]
 
-There are lots of different emojis to choose from.
+Il existe un grand nombre d'emojis différents.
 
 [[[choose-an-emoji]]]
 
-**Tip:** It is fine to use the same image or emoji multiple times on your webpage to quickly fill your page.
+**Astuce :** tu peux très bien utiliser la même image ou le même emoji plusieurs fois sur ta page web pour remplir rapidement ta page.
 
 \--- /task ---
 
 \--- task ---
 
-**Debug:**
+**Débogage :**
 
 ## --- collapse ---
 
-## title: My content has different heights and it looks odd
+## title: Mon contenu a des hauteurs différentes et le résultat est étrange
 
-When you add content that has different heights, the boxes around them will be different heights.
+Lorsque tu ajoutes du contenu de différentes hauteurs, les boîtes qui l'entourent auront également des hauteurs différentes.
 
 ![alt=""](images/different-heights.png)
 
-You can change this by adding in the `tile` class:
+Tu peux changer cela en ajoutant la classe `tile` :
 
 ## --- code ---
 
@@ -74,7 +74,7 @@ line_numbers: false
 <div class="tile">
 --- /code ---
 
-`tile` sets a specific height for each of the elements that have this class. To adjust the height, change it in the `style.css` file.
+`tile` définit une hauteur spécifique pour chacun des éléments qui ont cette classe. Pour ajuster la hauteur, modifie-la dans le fichier `style.css`.
 
 ## --- code ---
 
@@ -89,7 +89,7 @@ height: 9.4rem;
 }
 \--- /code ---
 
-Add the `tile` class to make every element with that class the same height.
+Ajoute la classe `tile` pour que chaque élément de cette classe ait la même hauteur.
 
 ![alt=""](images/same-height.png)
 
@@ -99,7 +99,7 @@ Add the `tile` class to make every element with that class the same height.
 
 \--- task ---
 
-**Test:** Have a look at your webpage. Make sure you are happy with the content on your page.
+**Test :** jette un œil à ta page web. Assure-toi que tu es satisfait du contenu de ta page.
 
 [[[image-not-displayed]]]
 
