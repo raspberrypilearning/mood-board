@@ -8,7 +8,7 @@ Je hebt enkele opties gekregen voor achtergrond- en tekstkleuren om te gebruiken
 
 \--- choices ---
 
-- (x) ![A dark blue background with white text.](images/contrast-a.PNG)
+- (x) ![Een donkerblauwe achtergrond met witte tekst.](images/contrast-a.PNG)
 
   \--- feedback ---
 
@@ -16,7 +16,7 @@ Je hebt enkele opties gekregen voor achtergrond- en tekstkleuren om te gebruiken
 
   \--- /feedback ---
 
-- ( ) ![A pale blue background with pale purple text.](images/contrast-b.PNG)
+- ( ) ![Een lichtblauwe achtergrond met lichtpaarse tekst.](images/contrast-b.PNG)
 
   \--- feedback ---
 
@@ -24,7 +24,7 @@ Je hebt enkele opties gekregen voor achtergrond- en tekstkleuren om te gebruiken
 
   \--- /feedback ---
 
-- ( ) ![A medium grey background with pale purple text.](images/contrast-c.PNG)
+- ( ) ![Een middelgrijze achtergrond met lichtpaarse tekst.](images/contrast-c.PNG)
 
   \--- feedback ---
 
