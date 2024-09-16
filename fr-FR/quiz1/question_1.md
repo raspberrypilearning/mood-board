@@ -1,20 +1,20 @@
-## Reflection
+## Réflexion
 
-Well done, you have practised your HTML and CSS skills and created your own mood board webpage. What an achievement!
+Bravo, tu as mis en pratique tes compétences en HTML et CSS et créé ta propre page web de tableau d'humeur. Quelle réussite !
 
-Answer the three questions below to reflect on your experience.
+Réponds aux trois questions ci-dessous pour réfléchir sur ce que tu as appris.
 
-You will be guided towards the correct answer. You can do this activity as many times as you want to.
+Tu seras guidé vers la bonne réponse. Tu peux faire cette activité autant de fois que tu le souhaites.
 
-Have fun!
+Amuse-toi bien !
 
 \--- question ---
 
 ---
 
-## legend: Question 1 of 3
+## legend: Question 1 sur 3
 
-Which option is the output of this piece of code?
+Quelle option est le résultat de cet extrait de code ?
 
 ## --- code ---
 
@@ -39,7 +39,7 @@ filename: index.html
 
 \--- feedback ---
 
-Not quite. Look closer at the classes used on each `<div>` element.
+Pas tout à fait. Regarde de plus près les classes utilisées sur chaque élément `<div>`.
 
 \--- /feedback ---
 
@@ -49,7 +49,7 @@ Not quite. Look closer at the classes used on each `<div>` element.
 
 \--- feedback ---
 
-Not quite. There is a class used that controls the size of each `<div>` element.
+Pas tout à fait. Il existe une classe utilisée qui contrôle la taille de chaque élément `<div>`.
 
 \--- /feedback ---
 
@@ -59,7 +59,7 @@ Not quite. There is a class used that controls the size of each `<div>` element.
 
 \--- feedback ---
 
-That's right. This code creates two `<div>` elements with a dashed border. The first one is wide and the second one is narrow.
+C'est exact. Ce code crée deux éléments `<div>` avec une bordure en pointillés. Le premier est large et le second est étroit.
 
 \--- /feedback ---
 
