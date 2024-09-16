@@ -1,8 +1,8 @@
-title: Mood board
+title: Tableau d'humeur
 hero_image: images/banner.png
-description: Create a mood board webpage for a real or imaginary project.
-meta_title: Make your own webpage | Learn web development | Mood board
-meta_description: Make your own webpage and learn web development with the Raspberry Pi Foundation. Use HTML and CSS to create a mood board for a real or imaginary project.
+description: Crée une page web de tableau d'humeur pour un projet réel ou imaginaire.
+meta_title: Créer ta propre page web | Apprendre le développement web | Tableau d'humeur
+meta_description: Crée ta propre page web et apprends le développement web avec la Raspberry Pi Foundation. Utilise l'HTML et le CSS pour créer un tableau d'humeur pour un projet réel ou imaginaire.
 version: 4
 listed: true
 copyedit: true
@@ -11,17 +11,17 @@ steps:
   - 
     title: Introduction
   - 
-    title: Design your mood board
+    title: Concevoir ton tableau d'humeur
   - 
-    title: Choose a layout for your mood board
+    title: Choisir une mise en page pour ton tableau d'humeur
     completion: engaged
   - 
-    title: Add your content
+    title: Ajouter ton contenu
   - 
-    title: Add style
+    title: Ajouter un style
     completion: internal
   - 
-    title: Reflection
+    title: Réflexion
     knowledge_quiz:
       path: quiz1
       version: 1
@@ -29,8 +29,8 @@ steps:
       passing_score: 3
     completion: external
   - 
-    title: Upgrade your project
+    title: Améliorer ton projet
   - 
-    title: Share
+    title: Partager
   - 
-    title: What next?
+    title: Et ensuite ?
