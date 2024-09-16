@@ -35,7 +35,7 @@ filename: index.html
 
 - ( )
 
-![A narrow \<div> then a wide \<div>.](images/narrow-wide.png){:style="min-width: 400px"}
+![Un étroit \<div> puis un large \<div>.](images/narrow-wide.png){:style="min-width: 400px"}
 
 \--- feedback ---
 
@@ -45,7 +45,7 @@ Pas tout à fait. Regarde de plus près les classes utilisées sur chaque élém
 
 - ( )
 
-![Two same sized \<div> elements.](images/normal-normal.png){:width="400px"}
+![Deux éléments \<div> de même taille.](images/normal-normal.png){:width="400px"}
 
 \--- feedback ---
 
@@ -55,7 +55,7 @@ Pas tout à fait. Il existe une classe utilisée qui contrôle la taille de chaq
 
 - (x)
 
-![A wide \<div> then a narrow \<div>.](images/wide-narrow.png){:width="400px"}
+![Un large \<div> puis un étroit \<div>.](images/wide-narrow.png){:width="400px"}
 
 \--- feedback ---
 
