@@ -35,7 +35,7 @@ filename: index.html
 
 - ( )
 
-![A narrow \<div> then a wide \<div>.](images/narrow-wide.png){:style="min-width: 400px"}
+![Een smalle \<div> en dan een brede \<div>.](images/narrow-wide.png){:style="min-width: 400px"}
 
 \--- feedback ---
 
@@ -45,7 +45,7 @@ Niet helemaal. Kijk eens goed naar de klassen die voor elk `<div>` element worde
 
 - ( )
 
-![Two same sized \<div> elements.](images/normal-normal.png){:width="400px"}
+![Twee even grote \<div> elementen.](images/normal-normal.png){:width="400px"}
 
 \--- feedback ---
 
@@ -55,7 +55,7 @@ Niet helemaal. Er wordt een klasse gebruikt die de grootte van elk `<div>` eleme
 
 - (x)
 
-![A wide \<div> then a narrow \<div>.](images/wide-narrow.png){:width="400px"}
+![Een brede \<div> en dan een smalle \<div>.](images/wide-narrow.png){:width="400px"}
 
 \--- feedback ---
 
