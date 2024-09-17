@@ -8,24 +8,24 @@ Le code d'en-tête de la page va ici
 
 Le contenu principal de la page web se situe entre les balises principales
 
-The sub heading section
+La sous-section d'en-tête
 
-Three tiles, one image and two text
+Trois tuiles, une image et deux textes
 
-Text on the left with an emoji on the right
+Texte à gauche avec un emoji à droite
 
 Le code de pied de page va ici
 
-Three images that wrap, rounded and shadow are applied
+Trois images enveloppantes, arrondies et ombrées sont appliquées
 
-Three tiles that wrap. They are all equal size with text in the center and a border
+Trois tuiles qui s'enveloppent. Elles sont toutes de taille égale, avec du texte au centre et une bordure
 
 Introduction
 
-A block quote with an emoji
+Un block quote avec un emoji
 
-Three tiled images with rounded corners
+Trois images en mosaïque avec des coins arrondis
 
-Three huge emojis, the hover action has been applied at the bottom of the style.css file
+Trois énormes emojis, l'action de survol a été appliquée au bas du fichier style.css
 
-Three photographs using the photo class. The hover action has also been applied at the bottom of the style.css file
+Trois photographies utilisant la classe photo. L'action de survol a également été appliquée en bas du fichier style.css
