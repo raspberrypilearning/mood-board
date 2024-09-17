@@ -1,0 +1,28 @@
+---
+title: Tableau d'humeur
+hero_image: images/banner.png
+description: Crée une page web de tableau d'humeur pour un projet réel ou imaginaire.
+meta_title: Créer ta propre page web | Apprendre le développement web | Tableau d'humeur
+meta_description: Crée ta propre page web et apprends le développement web avec la Raspberry Pi Foundation. Utilise l'HTML et le CSS pour créer un tableau d'humeur pour un projet réel ou imaginaire.
+version: 4
+listed: true
+copyedit: true
+last_tested: "2021-03-26"
+steps:
+  - title: Introduction
+  - title: Concevoir ton tableau d'humeur
+  - title: Choisir une mise en page pour ton tableau d'humeur
+    completion: engaged
+  - title: Ajouter ton contenu
+  - title: Ajouter un style
+    completion: internal
+  - title: Réflexion
+    knowledge_quiz:
+      path: quiz1
+      version: 1
+      questions: 3
+      passing_score: 3
+    completion: external
+  - title: Améliorer ton projet
+  - title: Partager
+  - title: Et ensuite ?
